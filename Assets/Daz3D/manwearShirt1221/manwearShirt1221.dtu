@@ -1,0 +1,2366 @@
+{
+	"DTU Version" : 4,
+	"Asset Name" : "manwearShirt1221",
+	"Import Name" : "MuscleShirt_15736",
+	"Asset Type" : "SkeletalMesh",
+	"Use Experimental Animation Transfer" : false,
+	"Asset Id" : "MuscleShirt_15736",
+	"Content Type" : "Follower/Wardrobe/Shirt",
+	"FBX File" : "E:/benke/dasishang/digitalHuman/unityProjDigitalHuman/UnityProjDigital/Assets/Daz3D/manwearShirt1221/manwearShirt1221.fbx",
+	"Base FBX File" : "E:/benke/dasishang/digitalHuman/unityProjDigitalHuman/UnityProjDigital/Assets/Daz3D/manwearShirt1221/manwearShirt1221_base.fbx",
+	"HD FBX File" : "E:/benke/dasishang/digitalHuman/unityProjDigitalHuman/UnityProjDigital/Assets/Daz3D/manwearShirt1221/manwearShirt1221_HD.fbx",
+	"Import Folder" : "E:/benke/dasishang/digitalHuman/unityProjDigitalHuman/UnityProjDigital/Assets/Daz3D/manwearShirt1221/",
+	"Product Name" : "",
+	"Product Component Name" : "",
+	"Materials" : [
+		{
+			"Version" : 4,
+			"Asset Name" : "MuscleShirt_15736",
+			"Asset Label" : "Basic Wear MuscleShirt",
+			"Material Name" : "MuscleShirt",
+			"Material Type" : "Iray Uber",
+			"Value" : "Follower/Wardrobe/Shirt",
+			"Properties" : [
+				{
+					"Name" : "Asset Type",
+					"Label" : "Asset Type",
+					"Value" : "Follower/Wardrobe/Shirt",
+					"Data Type" : "String",
+					"Texture" : ""
+				},
+				{
+					"Name" : "UV Set",
+					"Label" : "UV Set",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Label" : "Smooth",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Label" : "Angle",
+					"Value" : 89.9,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Label" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Label" : "Line Start Width (mm)",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Label" : "Line End Width (mm)",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Label" : "Line UV Width",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Label" : "Render Priority",
+					"Value" : 3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Label" : "Propagate Priority",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Label" : "Follow Blend",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Base Mixing",
+					"Label" : "Base Mixing",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Weight",
+					"Label" : "Metallicity",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Weight",
+					"Label" : "Diffuse Weight",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Label" : "Base Color",
+					"Value" : "#c0c0c0",
+					"Data Type" : "Color",
+					"Texture" : "E:/softwaresM/dazAll/dazRight/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/ABen/Basic Wear/Navy/MuscleShirt_BaseColor.jpg"
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Label" : "Diffuse Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Roughness",
+					"Label" : "Diffuse Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Weight",
+					"Label" : "Diffuse Overlay Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Weight Squared",
+					"Label" : "Diffuse Overlay Weight Squared",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Color",
+					"Label" : "Diffuse Overlay Color",
+					"Value" : "#c0c0c0",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Color Effect",
+					"Label" : "Diffuse Overlay Color Effect",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Roughness",
+					"Label" : "Diffuse Overlay Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Translucency Weight",
+					"Label" : "Translucency Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Base Color Effect",
+					"Label" : "Base Color Effect",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Translucency Color",
+					"Label" : "Translucency Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Invert Transmission Normal",
+					"Label" : "Invert Transmission Normal",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Reflectance Tint",
+					"Label" : "SSS Reflectance Tint",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Dual Lobe Specular Weight",
+					"Label" : "Dual Lobe Specular Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Dual Lobe Specular Reflectivity",
+					"Label" : "Dual Lobe Specular Reflectivity",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Lobe 1 Roughness",
+					"Label" : "Specular Lobe 1 Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Lobe 2 Roughness",
+					"Label" : "Specular Lobe 2 Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Lobe 1 Glossiness",
+					"Label" : "Specular Lobe 1 Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Lobe 2 Glossiness",
+					"Label" : "Specular Lobe 2 Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Dual Lobe Specular Ratio",
+					"Label" : "Dual Lobe Specular Ratio",
+					"Value" : 0.85,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Weight",
+					"Label" : "Glossy Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Layered Weight",
+					"Label" : "Glossy Layered Weight",
+					"Value" : 0.325037,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Share Glossy Inputs",
+					"Label" : "Share Glossy Inputs",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Color",
+					"Label" : "Glossy Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Color Effect",
+					"Label" : "Glossy Color Effect",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Reflectivity",
+					"Label" : "Glossy Reflectivity",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Specular",
+					"Label" : "Glossy Specular",
+					"Value" : "#3b3b3b",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Roughness",
+					"Label" : "Glossy Roughness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazAll/dazRight/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/ABen/Basic Wear/Navy/MuscleShirt_Roughness.jpg"
+				},
+				{
+					"Name" : "Glossiness",
+					"Label" : "Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Anisotropy",
+					"Label" : "Glossy Anisotropy",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Weight",
+					"Label" : "Backscattering Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Color",
+					"Label" : "Backscattering Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Roughness",
+					"Label" : "Backscattering Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Glossiness",
+					"Label" : "Backscattering Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Anisotropy",
+					"Label" : "Backscattering Anisotropy",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Index",
+					"Label" : "Refraction Index",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Weight",
+					"Label" : "Refraction Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Color",
+					"Label" : "Refraction Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Roughness",
+					"Label" : "Refraction Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Glossiness",
+					"Label" : "Refraction Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Abbe",
+					"Label" : "Abbe",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Anisotropy Rotations",
+					"Label" : "Glossy Anisotropy Rotations",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Base Thin Film",
+					"Label" : "Base Thin Film",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Base Thin Film IOR",
+					"Label" : "Base Thin Film IOR",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Label" : "Base Bump",
+					"Value" : 12,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazAll/dazRight/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/ABen/Basic Wear/Navy/MuscleShirt_Height.jpg"
+				},
+				{
+					"Name" : "Normal Map",
+					"Label" : "Normal Map",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazAll/dazRight/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/ABen/Basic Wear/Navy/MuscleShirt_Normal.jpg"
+				},
+				{
+					"Name" : "Metallic Flakes Weight",
+					"Label" : "Metallic Flakes Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Color",
+					"Label" : "Metallic Flakes Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Color Effect",
+					"Label" : "Metallic Flakes Color Effect",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Roughness",
+					"Label" : "Metallic Flakes Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Glossiness",
+					"Label" : "Metallic Flakes Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Size",
+					"Label" : "Metallic Flakes Size",
+					"Value" : 0.001,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Strength",
+					"Label" : "Metallic Flakes Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Density",
+					"Label" : "Metallic Flakes Density",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Thin Film",
+					"Label" : "Metallic Flakes Thin Film",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Thin Film IOR",
+					"Label" : "Metallic Flakes Thin Film IOR",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Weight",
+					"Label" : "Top Coat Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Color",
+					"Label" : "Top Coat Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Color Effect",
+					"Label" : "Top Coat Color Effect",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Roughness",
+					"Label" : "Top Coat Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Glossiness",
+					"Label" : "Top Coat Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Layering Mode",
+					"Label" : "Top Coat Layering Mode",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflectivity",
+					"Label" : "Reflectivity",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat IOR",
+					"Label" : "Top Coat IOR",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Curve Normal",
+					"Label" : "Top Coat Curve 0",
+					"Value" : 0.04,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Curve Grazing",
+					"Label" : "Top Coat Curve 90",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Curve Exponent",
+					"Label" : "Top Coat Curve Exponent",
+					"Value" : 5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Anisotropy",
+					"Label" : "Top Coat Anisotropy",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Rotations",
+					"Label" : "Top Coat Rotations",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Thin Film",
+					"Label" : "Top Coat Thin Film",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Thin Film IOR",
+					"Label" : "Top Coat Thin Film IOR",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Bump Mode",
+					"Label" : "Top Coat Bump Mode",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Bump",
+					"Label" : "Top Coat Bump",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Thin Walled",
+					"Label" : "Thin Walled",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Transmitted Measurement Distance",
+					"Label" : "Transmitted Measurement Distance",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Transmitted Color",
+					"Label" : "Transmitted Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Mode",
+					"Label" : "SSS Mode",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scattering Measurement Distance",
+					"Label" : "Scattering Measurement Distance",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Amount",
+					"Label" : "SSS Amount",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Color",
+					"Label" : "SSS Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Direction",
+					"Label" : "SSS Direction",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Emission Color",
+					"Label" : "Emission Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Emission Temperature",
+					"Label" : "Emission Temperature (K)",
+					"Value" : 6500,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Two Sided Light",
+					"Label" : "Two Sided Light",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Luminance",
+					"Label" : "Luminance",
+					"Value" : 1500,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Luminance Units",
+					"Label" : "Luminance Units",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Luminous Efficacy",
+					"Label" : "Luminous Efficacy (lm/W)",
+					"Value" : 15,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Cutout Opacity",
+					"Label" : "Cutout Opacity",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Label" : "Displacement Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Label" : "Minimum Displacement",
+					"Value" : -0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Label" : "Maximum Displacement",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SubD Displacement Level",
+					"Label" : "SubD Displacement Level",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Label" : "Horizontal Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Label" : "Horizontal Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Label" : "Vertical Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Label" : "Vertical Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Round Corners Radius",
+					"Label" : "Round Corners Radius",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Round Corners Across Materials",
+					"Label" : "Round Corners Across Materials",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Round Corners Roundness",
+					"Label" : "Round Corners Roundness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Roughness Squared",
+					"Label" : "Roughness Squared",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness Squared",
+					"Label" : "Glossiness Squared",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "BSDF Type",
+					"Label" : "BSDF Type",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "OutlineColorID",
+					"Label" : "Material ID",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Exclude From White Mode",
+					"Label" : "Exclude From White Mode",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		}
+	],
+	"Morphs" : [
+	],
+	"MorphLinks" : {
+	},
+	"MorphNames" : [
+	],
+	"SkeletonData" : {
+		"skeletonScale" : [
+			"skeletonScale",
+			1
+		],
+		"offset" : [
+			"offset",
+			0
+		]
+	},
+	"HeadTailData" : {
+		"hip" : [
+			0,
+			103.5941,
+			1.915123,
+			0,
+			86.67325,
+			1.915123,
+			0,
+			0,
+			-1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"pelvis" : [
+			0,
+			105.529,
+			1.80733,
+			0,
+			85.92525,
+			1.80733,
+			0,
+			0,
+			-1,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"lThighBend" : [
+			7.611847,
+			94.49228,
+			0.810459,
+			10.4417,
+			73.95817,
+			0.3908339,
+			-0.08662041,
+			0.008420639,
+			-0.9962058,
+			0,
+			0,
+			0,
+			1,
+			0,
+			1,
+			0,
+			0,
+			0
+		],
+		"lThighTwist" : [
+			10.17801,
+			73.84615,
+			0.2876684,
+			13.04206,
+			53.06385,
+			-0.1370287,
+			-0.08662041,
+			0.008420639,
+			-0.9962058,
+			0,
+			0,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0,
+			0
+		],
+		"lShin" : [
+			14.47647,
+			49.993,
+			-2.036238,
+			19.97584,
+			9.151459,
+			-5.696803,
+			-0.1797837,
+			0.06377447,
+			-0.9816367,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"rThighBend" : [
+			-7.611847,
+			94.49228,
+			0.810459,
+			-10.4417,
+			73.95817,
+			0.3908339,
+			0.08662041,
+			0.008420641,
+			-0.9962058,
+			0,
+			0,
+			0,
+			1,
+			0,
+			1,
+			0,
+			0,
+			0
+		],
+		"rThighTwist" : [
+			-10.17801,
+			73.84615,
+			0.2876684,
+			-13.04206,
+			53.06385,
+			-0.1370287,
+			0.08662041,
+			0.008420641,
+			-0.9962058,
+			0,
+			0,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0,
+			0
+		],
+		"rShin" : [
+			-14.47647,
+			49.993,
+			-2.036238,
+			-19.97584,
+			9.151459,
+			-5.696803,
+			0.1797837,
+			0.06377448,
+			-0.9816367,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"abdomenLower" : [
+			0,
+			105.4197,
+			0.1559995,
+			0,
+			113.8012,
+			0.1559995,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"abdomenUpper" : [
+			0,
+			113.851,
+			0.7088885,
+			0,
+			121.6839,
+			0.7088885,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0,
+			0,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"chestLower" : [
+			0,
+			122.0601,
+			-0.008112073,
+			0,
+			142.9119,
+			-0.008112073,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"chestUpper" : [
+			0,
+			135.2389,
+			-3.512701,
+			0,
+			148.9489,
+			-3.512701,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"lCollar" : [
+			4.063411,
+			146.5237,
+			-4.624425,
+			15.6812,
+			146.8791,
+			-5.337446,
+			-0.03052319,
+			0.9995336,
+			0.0009355541,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"lShldrBend" : [
+			17.99179,
+			145.562,
+			-5.719193,
+			26.08727,
+			136.3783,
+			-5.472769,
+			0.7496947,
+			0.6614369,
+			0.02142731,
+			0,
+			0,
+			0,
+			0,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"lShldrTwist" : [
+			26.18677,
+			136.4074,
+			-5.23911,
+			35.56033,
+			125.7071,
+			-5.05284,
+			0.7518488,
+			0.6589943,
+			0.02121524,
+			0,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"lForearmBend" : [
+			35.22939,
+			126.089,
+			-4.96133,
+			44.248,
+			117.1436,
+			-1.224472,
+			-0.214788,
+			0.1841285,
+			0.9591469,
+			0,
+			0,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0,
+			0
+		],
+		"rCollar" : [
+			-4.063411,
+			146.5237,
+			-4.624425,
+			-15.6812,
+			146.8791,
+			-5.337446,
+			-0.03052319,
+			-0.9995336,
+			-0.0009355541,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"rShldrBend" : [
+			-17.99179,
+			145.562,
+			-5.719193,
+			-26.08727,
+			136.3783,
+			-5.472769,
+			0.7496947,
+			-0.6614369,
+			-0.02142731,
+			0,
+			0,
+			0,
+			0,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"rShldrTwist" : [
+			-26.18677,
+			136.4074,
+			-5.23911,
+			-35.56033,
+			125.7071,
+			-5.05284,
+			0.7518488,
+			-0.6589943,
+			-0.02121524,
+			0,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"rForearmBend" : [
+			-35.22939,
+			126.089,
+			-4.96133,
+			-44.248,
+			117.1436,
+			-1.224472,
+			-0.214788,
+			-0.1841285,
+			-0.9591469,
+			0,
+			0,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0,
+			0
+		],
+		"neckLower" : [
+			0,
+			154.2024,
+			-4.287979,
+			0,
+			157.9795,
+			-3.724011,
+			0,
+			-0.1476742,
+			0.9890361,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"neckUpper" : [
+			0,
+			157.7291,
+			-2.052884,
+			0,
+			163.1812,
+			-1.238827,
+			0,
+			-0.1476742,
+			0.9890361,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"lPectoral" : [
+			3.68573,
+			130.4377,
+			-9.287436,
+			11.02682,
+			133.6098,
+			9.738045,
+			-0.05521585,
+			0.9881171,
+			-0.1434426,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"rPectoral" : [
+			-3.68573,
+			130.4377,
+			-9.287436,
+			-11.02682,
+			133.6098,
+			9.738047,
+			0.05521582,
+			0.9881171,
+			-0.1434426,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		]
+	},
+	"JointOrientation" : {
+		"hip" : [
+			"YZX",
+			0,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0
+		],
+		"pelvis" : [
+			"YZX",
+			0,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0
+		],
+		"lThighBend" : [
+			"YZX",
+			1.163925,
+			4.855465,
+			7.945156,
+			0.9966803,
+			-0.007189033,
+			-0.04295832,
+			-0.06878406
+		],
+		"lThighTwist" : [
+			"YZX",
+			1.163925,
+			4.855465,
+			7.945156,
+			0.9966803,
+			-0.007189033,
+			-0.04295832,
+			-0.06878406
+		],
+		"lShin" : [
+			"YZX",
+			5.150358,
+			9.72967,
+			8.541522,
+			0.9929111,
+			-0.03833498,
+			-0.0878184,
+			-0.07032688
+		],
+		"rThighBend" : [
+			"YZX",
+			1.163925,
+			-4.855465,
+			-7.945155,
+			0.9966803,
+			-0.007189033,
+			0.04295832,
+			0.06878405
+		],
+		"rThighTwist" : [
+			"YZX",
+			1.163925,
+			-4.855465,
+			-7.945155,
+			0.9966803,
+			-0.007189033,
+			0.04295832,
+			0.06878405
+		],
+		"rShin" : [
+			"YZX",
+			5.150358,
+			-9.729669,
+			-8.54152,
+			0.9929111,
+			-0.03833498,
+			0.08781839,
+			0.07032686
+		],
+		"abdomenLower" : [
+			"YZX",
+			0,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0
+		],
+		"abdomenUpper" : [
+			"YZX",
+			0,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0
+		],
+		"chestLower" : [
+			"YZX",
+			0,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0
+		],
+		"chestUpper" : [
+			"YZX",
+			0,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0
+		],
+		"lCollar" : [
+			"XYZ",
+			0.05370408,
+			3.510381,
+			1.752411,
+			0.9994141,
+			-2.307529e-12,
+			-0.03063264,
+			-0.01527054
+		],
+		"lShldrBend" : [
+			"XYZ",
+			1.228037,
+			-1.153136,
+			-48.60357,
+			0.9113364,
+			-0.005625315,
+			0.0135807,
+			0.4114
+		],
+		"lShldrTwist" : [
+			"XYZ",
+			1.215739,
+			-0.7502009,
+			-48.78141,
+			0.9107086,
+			-0.006958713,
+			0.01034308,
+			0.4128613
+		],
+		"lForearmBend" : [
+			"XZY",
+			1.176363,
+			-16.39287,
+			-44.76654,
+			0.9157211,
+			0.0448917,
+			0.1356882,
+			0.3755374
+		],
+		"rCollar" : [
+			"XYZ",
+			0.05370408,
+			-3.510381,
+			-1.752411,
+			0.9994141,
+			-2.307529e-12,
+			0.03063264,
+			0.01527054
+		],
+		"rShldrBend" : [
+			"XYZ",
+			1.228037,
+			1.153136,
+			48.60357,
+			0.9113364,
+			-0.005625315,
+			-0.0135807,
+			-0.4114
+		],
+		"rShldrTwist" : [
+			"XYZ",
+			1.215739,
+			0.7502008,
+			48.78141,
+			0.9107086,
+			-0.006958713,
+			-0.01034308,
+			-0.4128613
+		],
+		"rForearmBend" : [
+			"XZY",
+			1.176364,
+			16.39287,
+			44.76654,
+			0.9157211,
+			0.04489169,
+			-0.1356882,
+			-0.3755374
+		],
+		"neckLower" : [
+			"YZX",
+			8.492167,
+			0,
+			0,
+			0.9972552,
+			-0.07404032,
+			0,
+			0
+		],
+		"neckUpper" : [
+			"YZX",
+			8.492167,
+			0,
+			0,
+			0.9972552,
+			-0.07404032,
+			0,
+			0
+		],
+		"lPectoral" : [
+			"ZYX",
+			-8.84427,
+			21.09832,
+			-0.00749216,
+			0.9801725,
+			0.07578906,
+			-0.182539,
+			-0.01405208
+		],
+		"rPectoral" : [
+			"ZYX",
+			-8.844269,
+			-21.09831,
+			0.007492024,
+			0.9801725,
+			0.07578906,
+			0.1825389,
+			0.01405207
+		]
+	},
+	"LimitData" : {
+		"hip" : [
+			"hip",
+			"YZX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"pelvis" : [
+			"pelvis",
+			"YZX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"lThighBend" : [
+			"lThighBend",
+			"YZX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"lThighTwist" : [
+			"lThighTwist",
+			"YZX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"lShin" : [
+			"lShin",
+			"YZX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"rThighBend" : [
+			"rThighBend",
+			"YZX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"rThighTwist" : [
+			"rThighTwist",
+			"YZX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"rShin" : [
+			"rShin",
+			"YZX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"abdomenLower" : [
+			"abdomenLower",
+			"YZX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"abdomenUpper" : [
+			"abdomenUpper",
+			"YZX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"chestLower" : [
+			"chestLower",
+			"YZX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"chestUpper" : [
+			"chestUpper",
+			"YZX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"lCollar" : [
+			"lCollar",
+			"XYZ",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"lShldrBend" : [
+			"lShldrBend",
+			"XYZ",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"lShldrTwist" : [
+			"lShldrTwist",
+			"XYZ",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"lForearmBend" : [
+			"lForearmBend",
+			"XZY",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"rCollar" : [
+			"rCollar",
+			"XYZ",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"rShldrBend" : [
+			"rShldrBend",
+			"XYZ",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"rShldrTwist" : [
+			"rShldrTwist",
+			"XYZ",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"rForearmBend" : [
+			"rForearmBend",
+			"XZY",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"neckLower" : [
+			"neckLower",
+			"YZX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"neckUpper" : [
+			"neckUpper",
+			"YZX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"lPectoral" : [
+			"lPectoral",
+			"ZYX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"rPectoral" : [
+			"rPectoral",
+			"ZYX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		]
+	},
+	"PoseData" : {
+		"MuscleShirt_15736" : {
+			"Name" : "MuscleShirt_15736",
+			"Label" : "Basic Wear MuscleShirt",
+			"Object Type" : "MESH",
+			"Object" : "MuscleShirt_15736",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"hip" : {
+			"Name" : "hip",
+			"Label" : "Hip",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"pelvis" : {
+			"Name" : "pelvis",
+			"Label" : "Pelvis",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"lThighBend" : {
+			"Name" : "lThighBend",
+			"Label" : "Left Thigh Bend",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"lThighTwist" : {
+			"Name" : "lThighTwist",
+			"Label" : "Left Thigh Twist",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"lShin" : {
+			"Name" : "lShin",
+			"Label" : "Left Shin",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"rThighBend" : {
+			"Name" : "rThighBend",
+			"Label" : "Right Thigh Bend",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"rThighTwist" : {
+			"Name" : "rThighTwist",
+			"Label" : "Right Thigh Twist",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"rShin" : {
+			"Name" : "rShin",
+			"Label" : "Right Shin",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"abdomenLower" : {
+			"Name" : "abdomenLower",
+			"Label" : "Abdomen Lower",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"abdomenUpper" : {
+			"Name" : "abdomenUpper",
+			"Label" : "Abdomen Upper",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"chestLower" : {
+			"Name" : "chestLower",
+			"Label" : "Chest Lower",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"chestUpper" : {
+			"Name" : "chestUpper",
+			"Label" : "Chest Upper",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"lCollar" : {
+			"Name" : "lCollar",
+			"Label" : "Left Collar",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"lShldrBend" : {
+			"Name" : "lShldrBend",
+			"Label" : "Left Shoulder Bend",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"lShldrTwist" : {
+			"Name" : "lShldrTwist",
+			"Label" : "Left Shoulder Twist",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"lForearmBend" : {
+			"Name" : "lForearmBend",
+			"Label" : "Left Forearm Bend",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"rCollar" : {
+			"Name" : "rCollar",
+			"Label" : "Right Collar",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"rShldrBend" : {
+			"Name" : "rShldrBend",
+			"Label" : "Right Shoulder Bend",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"rShldrTwist" : {
+			"Name" : "rShldrTwist",
+			"Label" : "Right Shoulder Twist",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"rForearmBend" : {
+			"Name" : "rForearmBend",
+			"Label" : "Right Forearm Bend",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"neckLower" : {
+			"Name" : "neckLower",
+			"Label" : "Neck Lower",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"neckUpper" : {
+			"Name" : "neckUpper",
+			"Label" : "Neck Upper",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"lPectoral" : {
+			"Name" : "lPectoral",
+			"Label" : "Left Pectoral",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"rPectoral" : {
+			"Name" : "rPectoral",
+			"Label" : "Right Pectoral",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		}
+	},
+	"Subdivisions" : [
+	],
+	"dForce" : [
+	]
+}

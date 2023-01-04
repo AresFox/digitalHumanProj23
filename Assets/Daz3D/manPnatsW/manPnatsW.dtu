@@ -1,0 +1,1912 @@
+{
+	"DTU Version" : 4,
+	"Asset Name" : "manPnatsW",
+	"Import Name" : "WindwalkerPants_9503",
+	"Asset Type" : "SkeletalMesh",
+	"Use Experimental Animation Transfer" : false,
+	"Asset Id" : "WindwalkerPants_9503",
+	"Content Type" : "",
+	"FBX File" : "E:/benke/dasishang/digitalHuman/unityProjDigitalHuman/UnityProjDigital/Assets/Daz3D/manPnatsW/manPnatsW.fbx",
+	"Base FBX File" : "E:/benke/dasishang/digitalHuman/unityProjDigitalHuman/UnityProjDigital/Assets/Daz3D/manPnatsW/manPnatsW_base.fbx",
+	"HD FBX File" : "E:/benke/dasishang/digitalHuman/unityProjDigitalHuman/UnityProjDigital/Assets/Daz3D/manPnatsW/manPnatsW_HD.fbx",
+	"Import Folder" : "E:/benke/dasishang/digitalHuman/unityProjDigitalHuman/UnityProjDigital/Assets/Daz3D/manPnatsW/",
+	"Product Name" : "",
+	"Product Component Name" : "",
+	"Materials" : [
+		{
+			"Version" : 4,
+			"Asset Name" : "WindwalkerPants_9503",
+			"Asset Label" : "Windwalker Pants",
+			"Material Name" : "Pockets",
+			"Material Type" : "DAZ Studio Default",
+			"Value" : "",
+			"Properties" : [
+				{
+					"Name" : "Asset Type",
+					"Label" : "Asset Type",
+					"Value" : "",
+					"Data Type" : "String",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Label" : "Diffuse Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/ABen/Windtalker/03/WT_Pants_BaseColor.jpg"
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Label" : "Diffuse Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness",
+					"Label" : "Glossiness",
+					"Value" : 0.75,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Label" : "Specular Color",
+					"Value" : "#fdfdfd",
+					"Data Type" : "Color",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/ABen/Windtalker/03/WT_Pants_Roughness.jpg"
+				},
+				{
+					"Name" : "Specular Strength",
+					"Label" : "Specular Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/ABen/Windtalker/03/WT_Pants_Metallic.jpg"
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Label" : "Multiply Specular Through Opacity",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Label" : "Ambient Color",
+					"Value" : "#191919",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Label" : "Ambient Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Label" : "Opacity Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Label" : "Bump Strength",
+					"Value" : 0.75,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/ABen/Windtalker/03/WT_Pants_Height.jpg"
+				},
+				{
+					"Name" : "Negative Bump",
+					"Label" : "Negative Bump",
+					"Value" : -0.09,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Positive Bump",
+					"Label" : "Positive Bump",
+					"Value" : 0.09,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Label" : "Displacement Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Label" : "Minimum Displacement",
+					"Value" : -0.05,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Label" : "Maximum Displacement",
+					"Value" : 0.05,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Normal Map",
+					"Label" : "Normal Map",
+					"Value" : "#ffffff",
+					"Data Type" : "Texture",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Color",
+					"Label" : "Reflection Color",
+					"Value" : "#747068",
+					"Data Type" : "Color",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/ABen/Windtalker/AHB_Ref02.jpg"
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Label" : "Reflection Strength",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/ABen/Windtalker/03/WT_Pants_Metallic.jpg"
+				},
+				{
+					"Name" : "Refraction Color",
+					"Label" : "Refraction Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Strength",
+					"Label" : "Refraction Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Index of Refraction",
+					"Label" : "Index of Refraction",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Sheen Color",
+					"Label" : "Sheen Color",
+					"Value" : "#666666",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scatter Color",
+					"Label" : "Scatter Color",
+					"Value" : "#cc260f",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Thickness",
+					"Label" : "Thickness",
+					"Value" : 0.25,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Label" : "Horizontal Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Label" : "Horizontal Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Label" : "Vertical Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Label" : "Vertical Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Lighting Model",
+					"Label" : "Lighting Model",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "UV Set",
+					"Label" : "UV Set",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Label" : "Smooth",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Label" : "Angle",
+					"Value" : 89.9,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Label" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Label" : "Line Start Width (mm)",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Label" : "Line End Width (mm)",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Label" : "Line UV Width",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Label" : "Render Priority",
+					"Value" : 3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Label" : "Propagate Priority",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Label" : "Follow Blend",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 4,
+			"Asset Name" : "WindwalkerPants_9503",
+			"Asset Label" : "Windwalker Pants",
+			"Material Name" : "Pants",
+			"Material Type" : "DAZ Studio Default",
+			"Value" : "",
+			"Properties" : [
+				{
+					"Name" : "Asset Type",
+					"Label" : "Asset Type",
+					"Value" : "",
+					"Data Type" : "String",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Label" : "Diffuse Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/ABen/Windtalker/03/WT_Pants_BaseColor.jpg"
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Label" : "Diffuse Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness",
+					"Label" : "Glossiness",
+					"Value" : 0.75,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Label" : "Specular Color",
+					"Value" : "#fdfdfd",
+					"Data Type" : "Color",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/ABen/Windtalker/03/WT_Pants_Roughness.jpg"
+				},
+				{
+					"Name" : "Specular Strength",
+					"Label" : "Specular Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/ABen/Windtalker/03/WT_Pants_Metallic.jpg"
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Label" : "Multiply Specular Through Opacity",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Label" : "Ambient Color",
+					"Value" : "#191919",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Label" : "Ambient Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Label" : "Opacity Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Label" : "Bump Strength",
+					"Value" : 0.75,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/ABen/Windtalker/03/WT_Pants_Height.jpg"
+				},
+				{
+					"Name" : "Negative Bump",
+					"Label" : "Negative Bump",
+					"Value" : -0.09,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Positive Bump",
+					"Label" : "Positive Bump",
+					"Value" : 0.09,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Label" : "Displacement Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Label" : "Minimum Displacement",
+					"Value" : -0.05,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Label" : "Maximum Displacement",
+					"Value" : 0.05,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Normal Map",
+					"Label" : "Normal Map",
+					"Value" : "#ffffff",
+					"Data Type" : "Texture",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Color",
+					"Label" : "Reflection Color",
+					"Value" : "#747068",
+					"Data Type" : "Color",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/ABen/Windtalker/AHB_Ref02.jpg"
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Label" : "Reflection Strength",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/ABen/Windtalker/03/WT_Pants_Metallic.jpg"
+				},
+				{
+					"Name" : "Refraction Color",
+					"Label" : "Refraction Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Strength",
+					"Label" : "Refraction Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Index of Refraction",
+					"Label" : "Index of Refraction",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Sheen Color",
+					"Label" : "Sheen Color",
+					"Value" : "#666666",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scatter Color",
+					"Label" : "Scatter Color",
+					"Value" : "#cc260f",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Thickness",
+					"Label" : "Thickness",
+					"Value" : 0.25,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Label" : "Horizontal Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Label" : "Horizontal Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Label" : "Vertical Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Label" : "Vertical Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Lighting Model",
+					"Label" : "Lighting Model",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "UV Set",
+					"Label" : "UV Set",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Label" : "Smooth",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Label" : "Angle",
+					"Value" : 89.9,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Label" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Label" : "Line Start Width (mm)",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Label" : "Line End Width (mm)",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Label" : "Line UV Width",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Label" : "Render Priority",
+					"Value" : 3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Label" : "Propagate Priority",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Label" : "Follow Blend",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 4,
+			"Asset Name" : "WindwalkerPants_9503",
+			"Asset Label" : "Windwalker Pants",
+			"Material Name" : "Waistband",
+			"Material Type" : "DAZ Studio Default",
+			"Value" : "",
+			"Properties" : [
+				{
+					"Name" : "Asset Type",
+					"Label" : "Asset Type",
+					"Value" : "",
+					"Data Type" : "String",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Label" : "Diffuse Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/ABen/Windtalker/03/WT_Pants_BaseColor.jpg"
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Label" : "Diffuse Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness",
+					"Label" : "Glossiness",
+					"Value" : 0.75,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Label" : "Specular Color",
+					"Value" : "#fdfdfd",
+					"Data Type" : "Color",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/ABen/Windtalker/03/WT_Pants_Roughness.jpg"
+				},
+				{
+					"Name" : "Specular Strength",
+					"Label" : "Specular Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/ABen/Windtalker/03/WT_Pants_Metallic.jpg"
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Label" : "Multiply Specular Through Opacity",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Label" : "Ambient Color",
+					"Value" : "#191919",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Label" : "Ambient Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Label" : "Opacity Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Label" : "Bump Strength",
+					"Value" : 0.75,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/ABen/Windtalker/03/WT_Pants_Height.jpg"
+				},
+				{
+					"Name" : "Negative Bump",
+					"Label" : "Negative Bump",
+					"Value" : -0.09,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Positive Bump",
+					"Label" : "Positive Bump",
+					"Value" : 0.09,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Label" : "Displacement Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Label" : "Minimum Displacement",
+					"Value" : -0.05,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Label" : "Maximum Displacement",
+					"Value" : 0.05,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Normal Map",
+					"Label" : "Normal Map",
+					"Value" : "#ffffff",
+					"Data Type" : "Texture",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Color",
+					"Label" : "Reflection Color",
+					"Value" : "#747068",
+					"Data Type" : "Color",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/ABen/Windtalker/AHB_Ref02.jpg"
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Label" : "Reflection Strength",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/ABen/Windtalker/03/WT_Pants_Metallic.jpg"
+				},
+				{
+					"Name" : "Refraction Color",
+					"Label" : "Refraction Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Strength",
+					"Label" : "Refraction Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Index of Refraction",
+					"Label" : "Index of Refraction",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Sheen Color",
+					"Label" : "Sheen Color",
+					"Value" : "#666666",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scatter Color",
+					"Label" : "Scatter Color",
+					"Value" : "#cc260f",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Thickness",
+					"Label" : "Thickness",
+					"Value" : 0.25,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Label" : "Horizontal Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Label" : "Horizontal Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Label" : "Vertical Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Label" : "Vertical Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Lighting Model",
+					"Label" : "Lighting Model",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "UV Set",
+					"Label" : "UV Set",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Label" : "Smooth",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Label" : "Angle",
+					"Value" : 89.9,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Label" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Label" : "Line Start Width (mm)",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Label" : "Line End Width (mm)",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Label" : "Line UV Width",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Label" : "Render Priority",
+					"Value" : 3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Label" : "Propagate Priority",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Label" : "Follow Blend",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		}
+	],
+	"Morphs" : [
+	],
+	"MorphLinks" : {
+	},
+	"MorphNames" : [
+	],
+	"SkeletonData" : {
+		"skeletonScale" : [
+			"skeletonScale",
+			1
+		],
+		"offset" : [
+			"offset",
+			0
+		]
+	},
+	"HeadTailData" : {
+		"hip" : [
+			0,
+			103.5941,
+			1.915123,
+			0,
+			86.67325,
+			1.915123,
+			0,
+			0,
+			-1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"pelvis" : [
+			0,
+			105.529,
+			1.80733,
+			0,
+			85.92525,
+			1.80733,
+			0,
+			0,
+			-1,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"lThighBend" : [
+			7.611847,
+			94.49228,
+			0.810459,
+			10.4417,
+			73.95817,
+			0.3908339,
+			-0.08662039,
+			0.008420643,
+			-0.9962058,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"lThighTwist" : [
+			10.17801,
+			73.84615,
+			0.2876684,
+			13.04206,
+			53.06385,
+			-0.1370287,
+			-0.08662039,
+			0.008420643,
+			-0.9962058,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"lShin" : [
+			14.47647,
+			49.993,
+			-2.036238,
+			19.97584,
+			9.151459,
+			-5.696803,
+			-0.1797837,
+			0.06377448,
+			-0.9816367,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"lFoot" : [
+			21.07425,
+			8.009697,
+			-4.571071,
+			22.77865,
+			5.629985,
+			0.9587793,
+			0.004867135,
+			0.919089,
+			0.3940199,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"lMetatarsals" : [
+			20.76532,
+			7.38801,
+			-5.151848,
+			24.39884,
+			2.8883,
+			6.227696,
+			-0.04829573,
+			0.9234837,
+			0.3805857,
+			0,
+			0,
+			0,
+			1,
+			0,
+			1,
+			0,
+			0,
+			0
+		],
+		"lToe" : [
+			24.94559,
+			2.930691,
+			8.053734,
+			26.81377,
+			1.670999,
+			13.4392,
+			0.03591799,
+			0.975781,
+			0.215781,
+			0,
+			0,
+			0,
+			1,
+			0,
+			1,
+			0,
+			0,
+			0
+		],
+		"rThighBend" : [
+			-7.611847,
+			94.49228,
+			0.810459,
+			-10.4417,
+			73.95817,
+			0.3908339,
+			0.08662039,
+			0.008420643,
+			-0.9962058,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"rThighTwist" : [
+			-10.17801,
+			73.84615,
+			0.2876684,
+			-13.04206,
+			53.06385,
+			-0.1370287,
+			0.08662039,
+			0.008420643,
+			-0.9962058,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"rShin" : [
+			-14.47647,
+			49.993,
+			-2.036238,
+			-19.97584,
+			9.151459,
+			-5.696803,
+			0.1797836,
+			0.0637745,
+			-0.9816367,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"rFoot" : [
+			-21.07425,
+			8.009697,
+			-4.571071,
+			-22.77865,
+			5.629985,
+			0.9587793,
+			-0.00486719,
+			0.919089,
+			0.3940199,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"rMetatarsals" : [
+			-20.76532,
+			7.38801,
+			-5.151848,
+			-24.39884,
+			2.8883,
+			6.227696,
+			0.0482957,
+			0.9234837,
+			0.3805857,
+			0,
+			0,
+			0,
+			1,
+			0,
+			1,
+			0,
+			0,
+			0
+		],
+		"rToe" : [
+			-24.94559,
+			2.930691,
+			8.053734,
+			-26.81377,
+			1.670999,
+			13.4392,
+			-0.03591799,
+			0.975781,
+			0.215781,
+			0,
+			0,
+			0,
+			1,
+			0,
+			1,
+			0,
+			0,
+			0
+		],
+		"abdomenLower" : [
+			0,
+			105.4197,
+			0.1559995,
+			0,
+			113.8012,
+			0.1559995,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"abdomenUpper" : [
+			0,
+			113.851,
+			0.7088884,
+			0,
+			121.6839,
+			0.7088884,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		]
+	},
+	"JointOrientation" : {
+		"hip" : [
+			"YZX",
+			0,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0
+		],
+		"pelvis" : [
+			"YZX",
+			0,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0
+		],
+		"lThighBend" : [
+			"YZX",
+			1.163925,
+			4.855464,
+			7.945155,
+			0.9966803,
+			-0.007189034,
+			-0.04295831,
+			-0.06878405
+		],
+		"lThighTwist" : [
+			"YZX",
+			1.163925,
+			4.855464,
+			7.945155,
+			0.9966803,
+			-0.007189034,
+			-0.04295831,
+			-0.06878405
+		],
+		"lShin" : [
+			"YZX",
+			5.150358,
+			9.729668,
+			8.54152,
+			0.9929111,
+			-0.03833499,
+			-0.08781838,
+			-0.07032686
+		],
+		"lFoot" : [
+			"ZYX",
+			24.02807,
+			14.60886,
+			6.11216,
+			0.9701902,
+			-0.1995386,
+			-0.1351868,
+			-0.02529546
+		],
+		"lMetatarsals" : [
+			"ZYX",
+			23.11861,
+			14.23168,
+			8.985258,
+			0.9711291,
+			-0.1887213,
+			-0.1365656,
+			-0.05140481
+		],
+		"lToe" : [
+			"ZYX",
+			13.16512,
+			18.66373,
+			2.172698,
+			0.9804369,
+			-0.1100433,
+			-0.1631993,
+			2.45788e-09
+		],
+		"rThighBend" : [
+			"YZX",
+			1.163925,
+			-4.855464,
+			-7.945155,
+			0.9966803,
+			-0.007189034,
+			0.04295831,
+			0.06878405
+		],
+		"rThighTwist" : [
+			"YZX",
+			1.163925,
+			-4.855464,
+			-7.945155,
+			0.9966803,
+			-0.007189034,
+			0.04295831,
+			0.06878405
+		],
+		"rShin" : [
+			"YZX",
+			5.150358,
+			-9.729667,
+			-8.541518,
+			0.9929111,
+			-0.03833499,
+			0.08781837,
+			0.07032684
+		],
+		"rFoot" : [
+			"ZYX",
+			24.02807,
+			-14.60886,
+			-6.112157,
+			0.9701902,
+			-0.1995386,
+			0.1351868,
+			0.02529543
+		],
+		"rMetatarsals" : [
+			"ZYX",
+			23.11861,
+			-14.23168,
+			-8.985256,
+			0.9711291,
+			-0.1887213,
+			0.1365656,
+			0.05140479
+		],
+		"rToe" : [
+			"ZYX",
+			13.16512,
+			-18.66373,
+			-2.172698,
+			0.9804369,
+			-0.1100433,
+			0.1631993,
+			-2.45788e-09
+		],
+		"abdomenLower" : [
+			"YZX",
+			0,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0
+		],
+		"abdomenUpper" : [
+			"YZX",
+			0,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0
+		]
+	},
+	"LimitData" : {
+		"hip" : [
+			"hip",
+			"YZX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"pelvis" : [
+			"pelvis",
+			"YZX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"lThighBend" : [
+			"lThighBend",
+			"YZX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"lThighTwist" : [
+			"lThighTwist",
+			"YZX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"lShin" : [
+			"lShin",
+			"YZX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"lFoot" : [
+			"lFoot",
+			"ZYX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"lMetatarsals" : [
+			"lMetatarsals",
+			"ZYX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"lToe" : [
+			"lToe",
+			"ZYX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"rThighBend" : [
+			"rThighBend",
+			"YZX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"rThighTwist" : [
+			"rThighTwist",
+			"YZX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"rShin" : [
+			"rShin",
+			"YZX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"rFoot" : [
+			"rFoot",
+			"ZYX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"rMetatarsals" : [
+			"rMetatarsals",
+			"ZYX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"rToe" : [
+			"rToe",
+			"ZYX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"abdomenLower" : [
+			"abdomenLower",
+			"YZX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"abdomenUpper" : [
+			"abdomenUpper",
+			"YZX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		]
+	},
+	"PoseData" : {
+		"WindwalkerPants_9503" : {
+			"Name" : "WindwalkerPants_9503",
+			"Label" : "Windwalker Pants",
+			"Object Type" : "MESH",
+			"Object" : "WindwalkerPants_9503",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"hip" : {
+			"Name" : "hip",
+			"Label" : "Hip",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"pelvis" : {
+			"Name" : "pelvis",
+			"Label" : "Pelvis",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"lThighBend" : {
+			"Name" : "lThighBend",
+			"Label" : "Left Thigh Bend",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"lThighTwist" : {
+			"Name" : "lThighTwist",
+			"Label" : "Left Thigh Twist",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"lShin" : {
+			"Name" : "lShin",
+			"Label" : "Left Shin",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"lFoot" : {
+			"Name" : "lFoot",
+			"Label" : "Left Foot",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"lMetatarsals" : {
+			"Name" : "lMetatarsals",
+			"Label" : "Left Metatarsals",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"lToe" : {
+			"Name" : "lToe",
+			"Label" : "Left Toes",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"rThighBend" : {
+			"Name" : "rThighBend",
+			"Label" : "Right Thigh Bend",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"rThighTwist" : {
+			"Name" : "rThighTwist",
+			"Label" : "Right Thigh Twist",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"rShin" : {
+			"Name" : "rShin",
+			"Label" : "Right Shin",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"rFoot" : {
+			"Name" : "rFoot",
+			"Label" : "Right Foot",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"rMetatarsals" : {
+			"Name" : "rMetatarsals",
+			"Label" : "Right Metatarsals",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"rToe" : {
+			"Name" : "rToe",
+			"Label" : "Right Toes",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"abdomenLower" : {
+			"Name" : "abdomenLower",
+			"Label" : "Abdomen Lower",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"abdomenUpper" : {
+			"Name" : "abdomenUpper",
+			"Label" : "Abdomen Upper",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		}
+	},
+	"Subdivisions" : [
+	],
+	"dForce" : [
+	]
+}

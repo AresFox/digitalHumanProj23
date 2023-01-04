@@ -1,0 +1,8340 @@
+{
+	"DTU Version" : 4,
+	"Asset Name" : "hair12141045",
+	"Import Name" : "YuzuruHair_228230",
+	"Asset Type" : "SkeletalMesh",
+	"Use Experimental Animation Transfer" : false,
+	"Asset Id" : "YuzuruHair_228230",
+	"Content Type" : "Follower/Hair",
+	"FBX File" : "E:/benke/dasishang/digitalHuman/unityProjDigitalHuman/UnityProjDigital/Assets/Daz3D/hair12141045/hair12141045.fbx",
+	"Base FBX File" : "E:/benke/dasishang/digitalHuman/unityProjDigitalHuman/UnityProjDigital/Assets/Daz3D/hair12141045/hair12141045_base.fbx",
+	"HD FBX File" : "E:/benke/dasishang/digitalHuman/unityProjDigitalHuman/UnityProjDigital/Assets/Daz3D/hair12141045/hair12141045_HD.fbx",
+	"Import Folder" : "E:/benke/dasishang/digitalHuman/unityProjDigitalHuman/UnityProjDigital/Assets/Daz3D/hair12141045/",
+	"Product Name" : "",
+	"Product Component Name" : "",
+	"Materials" : [
+		{
+			"Version" : 4,
+			"Asset Name" : "YuzuruHair_228230",
+			"Asset Label" : "YuzuruHair",
+			"Material Name" : "Hairline_Mat",
+			"Material Type" : "Iray Uber",
+			"Value" : "Follower/Hair",
+			"Properties" : [
+				{
+					"Name" : "Asset Type",
+					"Label" : "Asset Type",
+					"Value" : "Follower/Hair",
+					"Data Type" : "String",
+					"Texture" : ""
+				},
+				{
+					"Name" : "UV Set",
+					"Label" : "UV Set",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Label" : "Smooth",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Label" : "Angle",
+					"Value" : 89.9,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Label" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Label" : "Line Start Width (mm)",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Label" : "Line End Width (mm)",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Label" : "Line UV Width",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Label" : "Render Priority",
+					"Value" : 3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Label" : "Propagate Priority",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Label" : "Follow Blend",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Base Mixing",
+					"Label" : "Base Mixing",
+					"Value" : 2,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Weight",
+					"Label" : "Metallicity",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Weight",
+					"Label" : "Diffuse Weight",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Label" : "Base Color",
+					"Value" : "#858585",
+					"Data Type" : "Color",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/YuzuruHair  Dark.jpg"
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Label" : "Diffuse Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Roughness",
+					"Label" : "Diffuse Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Weight",
+					"Label" : "Diffuse Overlay Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Weight Squared",
+					"Label" : "Diffuse Overlay Weight Squared",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Color",
+					"Label" : "Diffuse Overlay Color",
+					"Value" : "#c0c0c0",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Color Effect",
+					"Label" : "Diffuse Overlay Color Effect",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Roughness",
+					"Label" : "Diffuse Overlay Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Translucency Weight",
+					"Label" : "Translucency Weight",
+					"Value" : 0.25,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Base Color Effect",
+					"Label" : "Base Color Effect",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Translucency Color",
+					"Label" : "Translucency Color",
+					"Value" : "#666471",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Invert Transmission Normal",
+					"Label" : "Invert Transmission Normal",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Reflectance Tint",
+					"Label" : "SSS Reflectance Tint",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Dual Lobe Specular Weight",
+					"Label" : "Dual Lobe Specular Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Dual Lobe Specular Reflectivity",
+					"Label" : "Dual Lobe Specular Reflectivity",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Lobe 1 Roughness",
+					"Label" : "Specular Lobe 1 Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Lobe 2 Roughness",
+					"Label" : "Specular Lobe 2 Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Lobe 1 Glossiness",
+					"Label" : "Specular Lobe 1 Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Lobe 2 Glossiness",
+					"Label" : "Specular Lobe 2 Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Dual Lobe Specular Ratio",
+					"Label" : "Dual Lobe Specular Ratio",
+					"Value" : 0.85,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Weight",
+					"Label" : "Glossy Weight",
+					"Value" : 0.7,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/Yuzuru Gloss 01.jpg"
+				},
+				{
+					"Name" : "Glossy Layered Weight",
+					"Label" : "Glossy Layered Weight",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Share Glossy Inputs",
+					"Label" : "Share Glossy Inputs",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Color",
+					"Label" : "Glossy Color",
+					"Value" : "#716d75",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Color Effect",
+					"Label" : "Glossy Color Effect",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Reflectivity",
+					"Label" : "Glossy Reflectivity",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Specular",
+					"Label" : "Glossy Specular",
+					"Value" : "#3b3b3b",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Roughness",
+					"Label" : "Glossy Roughness",
+					"Value" : 0.6037736,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness",
+					"Label" : "Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Anisotropy",
+					"Label" : "Glossy Anisotropy",
+					"Value" : 0.6,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Weight",
+					"Label" : "Backscattering Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Color",
+					"Label" : "Backscattering Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Roughness",
+					"Label" : "Backscattering Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Glossiness",
+					"Label" : "Backscattering Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Anisotropy",
+					"Label" : "Backscattering Anisotropy",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Index",
+					"Label" : "Refraction Index",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Weight",
+					"Label" : "Refraction Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Color",
+					"Label" : "Refraction Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Roughness",
+					"Label" : "Refraction Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Glossiness",
+					"Label" : "Refraction Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Abbe",
+					"Label" : "Abbe",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Anisotropy Rotations",
+					"Label" : "Glossy Anisotropy Rotations",
+					"Value" : 0.2169811,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Base Thin Film",
+					"Label" : "Base Thin Film",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Base Thin Film IOR",
+					"Label" : "Base Thin Film IOR",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Label" : "Base Bump",
+					"Value" : 2,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/YuzuruHair Bump.jpg"
+				},
+				{
+					"Name" : "Normal Map",
+					"Label" : "Normal Map",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/YuzuruHair Normal.jpg"
+				},
+				{
+					"Name" : "Metallic Flakes Weight",
+					"Label" : "Metallic Flakes Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Color",
+					"Label" : "Metallic Flakes Color",
+					"Value" : "#d8dbff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Color Effect",
+					"Label" : "Metallic Flakes Color Effect",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Roughness",
+					"Label" : "Metallic Flakes Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Glossiness",
+					"Label" : "Metallic Flakes Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Size",
+					"Label" : "Metallic Flakes Size",
+					"Value" : 0.001,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Strength",
+					"Label" : "Metallic Flakes Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Density",
+					"Label" : "Metallic Flakes Density",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Thin Film",
+					"Label" : "Metallic Flakes Thin Film",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Thin Film IOR",
+					"Label" : "Metallic Flakes Thin Film IOR",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Weight",
+					"Label" : "Top Coat Weight",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/Yuzuru Coat 02.jpg"
+				},
+				{
+					"Name" : "Top Coat Color",
+					"Label" : "Top Coat Color",
+					"Value" : "#929397",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Color Effect",
+					"Label" : "Top Coat Color Effect",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Roughness",
+					"Label" : "Top Coat Roughness",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Glossiness",
+					"Label" : "Top Coat Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Layering Mode",
+					"Label" : "Top Coat Layering Mode",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflectivity",
+					"Label" : "Reflectivity",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat IOR",
+					"Label" : "Top Coat IOR",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Curve Normal",
+					"Label" : "Top Coat Curve 0",
+					"Value" : 0.04,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Curve Grazing",
+					"Label" : "Top Coat Curve 90",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Curve Exponent",
+					"Label" : "Top Coat Curve Exponent",
+					"Value" : 5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Anisotropy",
+					"Label" : "Top Coat Anisotropy",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Rotations",
+					"Label" : "Top Coat Rotations",
+					"Value" : 0.26,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Thin Film",
+					"Label" : "Top Coat Thin Film",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Thin Film IOR",
+					"Label" : "Top Coat Thin Film IOR",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Bump Mode",
+					"Label" : "Top Coat Bump Mode",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Bump",
+					"Label" : "Top Coat Bump",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/YuzuruHair Bump 02.jpg"
+				},
+				{
+					"Name" : "Thin Walled",
+					"Label" : "Thin Walled",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Transmitted Measurement Distance",
+					"Label" : "Transmitted Measurement Distance",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Transmitted Color",
+					"Label" : "Transmitted Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Mode",
+					"Label" : "SSS Mode",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scattering Measurement Distance",
+					"Label" : "Scattering Measurement Distance",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Amount",
+					"Label" : "SSS Amount",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Color",
+					"Label" : "SSS Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Direction",
+					"Label" : "SSS Direction",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Emission Color",
+					"Label" : "Emission Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Emission Temperature",
+					"Label" : "Emission Temperature (K)",
+					"Value" : 6500,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Two Sided Light",
+					"Label" : "Two Sided Light",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Luminance",
+					"Label" : "Luminance",
+					"Value" : 1500,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Luminance Units",
+					"Label" : "Luminance Units",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Luminous Efficacy",
+					"Label" : "Luminous Efficacy (lm/W)",
+					"Value" : 15,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Cutout Opacity",
+					"Label" : "Cutout Opacity",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/YuzuruHair T.jpg"
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Label" : "Displacement Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Label" : "Minimum Displacement",
+					"Value" : -0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Label" : "Maximum Displacement",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SubD Displacement Level",
+					"Label" : "SubD Displacement Level",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Label" : "Horizontal Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Label" : "Horizontal Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Label" : "Vertical Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Label" : "Vertical Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Round Corners Radius",
+					"Label" : "Round Corners Radius",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Round Corners Across Materials",
+					"Label" : "Round Corners Across Materials",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Round Corners Roundness",
+					"Label" : "Round Corners Roundness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Roughness Squared",
+					"Label" : "Roughness Squared",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness Squared",
+					"Label" : "Glossiness Squared",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "BSDF Type",
+					"Label" : "BSDF Type",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "OutlineColorID",
+					"Label" : "Material ID",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Exclude From White Mode",
+					"Label" : "Exclude From White Mode",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 4,
+			"Asset Name" : "YuzuruHair_228230",
+			"Asset Label" : "YuzuruHair",
+			"Material Name" : "Back_Mat",
+			"Material Type" : "Iray Uber",
+			"Value" : "Follower/Hair",
+			"Properties" : [
+				{
+					"Name" : "Asset Type",
+					"Label" : "Asset Type",
+					"Value" : "Follower/Hair",
+					"Data Type" : "String",
+					"Texture" : ""
+				},
+				{
+					"Name" : "UV Set",
+					"Label" : "UV Set",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Label" : "Smooth",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Label" : "Angle",
+					"Value" : 89.9,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Label" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Label" : "Line Start Width (mm)",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Label" : "Line End Width (mm)",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Label" : "Line UV Width",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Label" : "Render Priority",
+					"Value" : 3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Label" : "Propagate Priority",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Label" : "Follow Blend",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Base Mixing",
+					"Label" : "Base Mixing",
+					"Value" : 2,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Weight",
+					"Label" : "Metallicity",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Weight",
+					"Label" : "Diffuse Weight",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Label" : "Base Color",
+					"Value" : "#858585",
+					"Data Type" : "Color",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/YuzuruHair  Dark.jpg"
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Label" : "Diffuse Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Roughness",
+					"Label" : "Diffuse Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Weight",
+					"Label" : "Diffuse Overlay Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Weight Squared",
+					"Label" : "Diffuse Overlay Weight Squared",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Color",
+					"Label" : "Diffuse Overlay Color",
+					"Value" : "#c0c0c0",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Color Effect",
+					"Label" : "Diffuse Overlay Color Effect",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Roughness",
+					"Label" : "Diffuse Overlay Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Translucency Weight",
+					"Label" : "Translucency Weight",
+					"Value" : 0.25,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Base Color Effect",
+					"Label" : "Base Color Effect",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Translucency Color",
+					"Label" : "Translucency Color",
+					"Value" : "#666471",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Invert Transmission Normal",
+					"Label" : "Invert Transmission Normal",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Reflectance Tint",
+					"Label" : "SSS Reflectance Tint",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Dual Lobe Specular Weight",
+					"Label" : "Dual Lobe Specular Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Dual Lobe Specular Reflectivity",
+					"Label" : "Dual Lobe Specular Reflectivity",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Lobe 1 Roughness",
+					"Label" : "Specular Lobe 1 Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Lobe 2 Roughness",
+					"Label" : "Specular Lobe 2 Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Lobe 1 Glossiness",
+					"Label" : "Specular Lobe 1 Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Lobe 2 Glossiness",
+					"Label" : "Specular Lobe 2 Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Dual Lobe Specular Ratio",
+					"Label" : "Dual Lobe Specular Ratio",
+					"Value" : 0.85,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Weight",
+					"Label" : "Glossy Weight",
+					"Value" : 0.7,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/Yuzuru Gloss 01.jpg"
+				},
+				{
+					"Name" : "Glossy Layered Weight",
+					"Label" : "Glossy Layered Weight",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Share Glossy Inputs",
+					"Label" : "Share Glossy Inputs",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Color",
+					"Label" : "Glossy Color",
+					"Value" : "#716d75",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Color Effect",
+					"Label" : "Glossy Color Effect",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Reflectivity",
+					"Label" : "Glossy Reflectivity",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Specular",
+					"Label" : "Glossy Specular",
+					"Value" : "#3b3b3b",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Roughness",
+					"Label" : "Glossy Roughness",
+					"Value" : 0.6037736,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness",
+					"Label" : "Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Anisotropy",
+					"Label" : "Glossy Anisotropy",
+					"Value" : 0.6,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Weight",
+					"Label" : "Backscattering Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Color",
+					"Label" : "Backscattering Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Roughness",
+					"Label" : "Backscattering Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Glossiness",
+					"Label" : "Backscattering Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Anisotropy",
+					"Label" : "Backscattering Anisotropy",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Index",
+					"Label" : "Refraction Index",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Weight",
+					"Label" : "Refraction Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Color",
+					"Label" : "Refraction Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Roughness",
+					"Label" : "Refraction Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Glossiness",
+					"Label" : "Refraction Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Abbe",
+					"Label" : "Abbe",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Anisotropy Rotations",
+					"Label" : "Glossy Anisotropy Rotations",
+					"Value" : 0.2169811,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Base Thin Film",
+					"Label" : "Base Thin Film",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Base Thin Film IOR",
+					"Label" : "Base Thin Film IOR",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Label" : "Base Bump",
+					"Value" : 2,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/YuzuruHair Bump.jpg"
+				},
+				{
+					"Name" : "Normal Map",
+					"Label" : "Normal Map",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/YuzuruHair Normal.jpg"
+				},
+				{
+					"Name" : "Metallic Flakes Weight",
+					"Label" : "Metallic Flakes Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Color",
+					"Label" : "Metallic Flakes Color",
+					"Value" : "#d8dbff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Color Effect",
+					"Label" : "Metallic Flakes Color Effect",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Roughness",
+					"Label" : "Metallic Flakes Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Glossiness",
+					"Label" : "Metallic Flakes Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Size",
+					"Label" : "Metallic Flakes Size",
+					"Value" : 0.001,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Strength",
+					"Label" : "Metallic Flakes Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Density",
+					"Label" : "Metallic Flakes Density",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Thin Film",
+					"Label" : "Metallic Flakes Thin Film",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Thin Film IOR",
+					"Label" : "Metallic Flakes Thin Film IOR",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Weight",
+					"Label" : "Top Coat Weight",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/Yuzuru Coat 02.jpg"
+				},
+				{
+					"Name" : "Top Coat Color",
+					"Label" : "Top Coat Color",
+					"Value" : "#929397",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Color Effect",
+					"Label" : "Top Coat Color Effect",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Roughness",
+					"Label" : "Top Coat Roughness",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Glossiness",
+					"Label" : "Top Coat Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Layering Mode",
+					"Label" : "Top Coat Layering Mode",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflectivity",
+					"Label" : "Reflectivity",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat IOR",
+					"Label" : "Top Coat IOR",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Curve Normal",
+					"Label" : "Top Coat Curve 0",
+					"Value" : 0.04,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Curve Grazing",
+					"Label" : "Top Coat Curve 90",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Curve Exponent",
+					"Label" : "Top Coat Curve Exponent",
+					"Value" : 5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Anisotropy",
+					"Label" : "Top Coat Anisotropy",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Rotations",
+					"Label" : "Top Coat Rotations",
+					"Value" : 0.26,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Thin Film",
+					"Label" : "Top Coat Thin Film",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Thin Film IOR",
+					"Label" : "Top Coat Thin Film IOR",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Bump Mode",
+					"Label" : "Top Coat Bump Mode",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Bump",
+					"Label" : "Top Coat Bump",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/YuzuruHair Bump 02.jpg"
+				},
+				{
+					"Name" : "Thin Walled",
+					"Label" : "Thin Walled",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Transmitted Measurement Distance",
+					"Label" : "Transmitted Measurement Distance",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Transmitted Color",
+					"Label" : "Transmitted Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Mode",
+					"Label" : "SSS Mode",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scattering Measurement Distance",
+					"Label" : "Scattering Measurement Distance",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Amount",
+					"Label" : "SSS Amount",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Color",
+					"Label" : "SSS Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Direction",
+					"Label" : "SSS Direction",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Emission Color",
+					"Label" : "Emission Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Emission Temperature",
+					"Label" : "Emission Temperature (K)",
+					"Value" : 6500,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Two Sided Light",
+					"Label" : "Two Sided Light",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Luminance",
+					"Label" : "Luminance",
+					"Value" : 1500,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Luminance Units",
+					"Label" : "Luminance Units",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Luminous Efficacy",
+					"Label" : "Luminous Efficacy (lm/W)",
+					"Value" : 15,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Cutout Opacity",
+					"Label" : "Cutout Opacity",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/YuzuruHair T.jpg"
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Label" : "Displacement Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Label" : "Minimum Displacement",
+					"Value" : -0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Label" : "Maximum Displacement",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SubD Displacement Level",
+					"Label" : "SubD Displacement Level",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Label" : "Horizontal Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Label" : "Horizontal Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Label" : "Vertical Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Label" : "Vertical Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Round Corners Radius",
+					"Label" : "Round Corners Radius",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Round Corners Across Materials",
+					"Label" : "Round Corners Across Materials",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Round Corners Roundness",
+					"Label" : "Round Corners Roundness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Roughness Squared",
+					"Label" : "Roughness Squared",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness Squared",
+					"Label" : "Glossiness Squared",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "BSDF Type",
+					"Label" : "BSDF Type",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "OutlineColorID",
+					"Label" : "Material ID",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Exclude From White Mode",
+					"Label" : "Exclude From White Mode",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 4,
+			"Asset Name" : "YuzuruHair_228230",
+			"Asset Label" : "YuzuruHair",
+			"Material Name" : "Back_f_Mat",
+			"Material Type" : "Iray Uber",
+			"Value" : "Follower/Hair",
+			"Properties" : [
+				{
+					"Name" : "Asset Type",
+					"Label" : "Asset Type",
+					"Value" : "Follower/Hair",
+					"Data Type" : "String",
+					"Texture" : ""
+				},
+				{
+					"Name" : "UV Set",
+					"Label" : "UV Set",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Label" : "Smooth",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Label" : "Angle",
+					"Value" : 89.9,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Label" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Label" : "Line Start Width (mm)",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Label" : "Line End Width (mm)",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Label" : "Line UV Width",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Label" : "Render Priority",
+					"Value" : 3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Label" : "Propagate Priority",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Label" : "Follow Blend",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Base Mixing",
+					"Label" : "Base Mixing",
+					"Value" : 2,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Weight",
+					"Label" : "Metallicity",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Weight",
+					"Label" : "Diffuse Weight",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Label" : "Base Color",
+					"Value" : "#858585",
+					"Data Type" : "Color",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/YuzuruHair  Dark.jpg"
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Label" : "Diffuse Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Roughness",
+					"Label" : "Diffuse Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Weight",
+					"Label" : "Diffuse Overlay Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Weight Squared",
+					"Label" : "Diffuse Overlay Weight Squared",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Color",
+					"Label" : "Diffuse Overlay Color",
+					"Value" : "#c0c0c0",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Color Effect",
+					"Label" : "Diffuse Overlay Color Effect",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Roughness",
+					"Label" : "Diffuse Overlay Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Translucency Weight",
+					"Label" : "Translucency Weight",
+					"Value" : 0.25,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Base Color Effect",
+					"Label" : "Base Color Effect",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Translucency Color",
+					"Label" : "Translucency Color",
+					"Value" : "#666471",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Invert Transmission Normal",
+					"Label" : "Invert Transmission Normal",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Reflectance Tint",
+					"Label" : "SSS Reflectance Tint",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Dual Lobe Specular Weight",
+					"Label" : "Dual Lobe Specular Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Dual Lobe Specular Reflectivity",
+					"Label" : "Dual Lobe Specular Reflectivity",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Lobe 1 Roughness",
+					"Label" : "Specular Lobe 1 Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Lobe 2 Roughness",
+					"Label" : "Specular Lobe 2 Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Lobe 1 Glossiness",
+					"Label" : "Specular Lobe 1 Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Lobe 2 Glossiness",
+					"Label" : "Specular Lobe 2 Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Dual Lobe Specular Ratio",
+					"Label" : "Dual Lobe Specular Ratio",
+					"Value" : 0.85,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Weight",
+					"Label" : "Glossy Weight",
+					"Value" : 0.7,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/Yuzuru Gloss 01.jpg"
+				},
+				{
+					"Name" : "Glossy Layered Weight",
+					"Label" : "Glossy Layered Weight",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Share Glossy Inputs",
+					"Label" : "Share Glossy Inputs",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Color",
+					"Label" : "Glossy Color",
+					"Value" : "#716d75",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Color Effect",
+					"Label" : "Glossy Color Effect",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Reflectivity",
+					"Label" : "Glossy Reflectivity",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Specular",
+					"Label" : "Glossy Specular",
+					"Value" : "#3b3b3b",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Roughness",
+					"Label" : "Glossy Roughness",
+					"Value" : 0.6037736,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness",
+					"Label" : "Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Anisotropy",
+					"Label" : "Glossy Anisotropy",
+					"Value" : 0.6,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Weight",
+					"Label" : "Backscattering Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Color",
+					"Label" : "Backscattering Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Roughness",
+					"Label" : "Backscattering Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Glossiness",
+					"Label" : "Backscattering Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Anisotropy",
+					"Label" : "Backscattering Anisotropy",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Index",
+					"Label" : "Refraction Index",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Weight",
+					"Label" : "Refraction Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Color",
+					"Label" : "Refraction Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Roughness",
+					"Label" : "Refraction Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Glossiness",
+					"Label" : "Refraction Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Abbe",
+					"Label" : "Abbe",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Anisotropy Rotations",
+					"Label" : "Glossy Anisotropy Rotations",
+					"Value" : 0.2169811,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Base Thin Film",
+					"Label" : "Base Thin Film",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Base Thin Film IOR",
+					"Label" : "Base Thin Film IOR",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Label" : "Base Bump",
+					"Value" : 2,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/YuzuruHair Bump.jpg"
+				},
+				{
+					"Name" : "Normal Map",
+					"Label" : "Normal Map",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/YuzuruHair Normal.jpg"
+				},
+				{
+					"Name" : "Metallic Flakes Weight",
+					"Label" : "Metallic Flakes Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Color",
+					"Label" : "Metallic Flakes Color",
+					"Value" : "#d8dbff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Color Effect",
+					"Label" : "Metallic Flakes Color Effect",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Roughness",
+					"Label" : "Metallic Flakes Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Glossiness",
+					"Label" : "Metallic Flakes Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Size",
+					"Label" : "Metallic Flakes Size",
+					"Value" : 0.001,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Strength",
+					"Label" : "Metallic Flakes Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Density",
+					"Label" : "Metallic Flakes Density",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Thin Film",
+					"Label" : "Metallic Flakes Thin Film",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Thin Film IOR",
+					"Label" : "Metallic Flakes Thin Film IOR",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Weight",
+					"Label" : "Top Coat Weight",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/Yuzuru Coat 02.jpg"
+				},
+				{
+					"Name" : "Top Coat Color",
+					"Label" : "Top Coat Color",
+					"Value" : "#929397",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Color Effect",
+					"Label" : "Top Coat Color Effect",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Roughness",
+					"Label" : "Top Coat Roughness",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Glossiness",
+					"Label" : "Top Coat Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Layering Mode",
+					"Label" : "Top Coat Layering Mode",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflectivity",
+					"Label" : "Reflectivity",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat IOR",
+					"Label" : "Top Coat IOR",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Curve Normal",
+					"Label" : "Top Coat Curve 0",
+					"Value" : 0.04,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Curve Grazing",
+					"Label" : "Top Coat Curve 90",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Curve Exponent",
+					"Label" : "Top Coat Curve Exponent",
+					"Value" : 5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Anisotropy",
+					"Label" : "Top Coat Anisotropy",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Rotations",
+					"Label" : "Top Coat Rotations",
+					"Value" : 0.26,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Thin Film",
+					"Label" : "Top Coat Thin Film",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Thin Film IOR",
+					"Label" : "Top Coat Thin Film IOR",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Bump Mode",
+					"Label" : "Top Coat Bump Mode",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Bump",
+					"Label" : "Top Coat Bump",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/YuzuruHair Bump 02.jpg"
+				},
+				{
+					"Name" : "Thin Walled",
+					"Label" : "Thin Walled",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Transmitted Measurement Distance",
+					"Label" : "Transmitted Measurement Distance",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Transmitted Color",
+					"Label" : "Transmitted Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Mode",
+					"Label" : "SSS Mode",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scattering Measurement Distance",
+					"Label" : "Scattering Measurement Distance",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Amount",
+					"Label" : "SSS Amount",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Color",
+					"Label" : "SSS Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Direction",
+					"Label" : "SSS Direction",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Emission Color",
+					"Label" : "Emission Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Emission Temperature",
+					"Label" : "Emission Temperature (K)",
+					"Value" : 6500,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Two Sided Light",
+					"Label" : "Two Sided Light",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Luminance",
+					"Label" : "Luminance",
+					"Value" : 1500,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Luminance Units",
+					"Label" : "Luminance Units",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Luminous Efficacy",
+					"Label" : "Luminous Efficacy (lm/W)",
+					"Value" : 15,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Cutout Opacity",
+					"Label" : "Cutout Opacity",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/YuzuruHair T.jpg"
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Label" : "Displacement Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Label" : "Minimum Displacement",
+					"Value" : -0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Label" : "Maximum Displacement",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SubD Displacement Level",
+					"Label" : "SubD Displacement Level",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Label" : "Horizontal Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Label" : "Horizontal Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Label" : "Vertical Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Label" : "Vertical Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Round Corners Radius",
+					"Label" : "Round Corners Radius",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Round Corners Across Materials",
+					"Label" : "Round Corners Across Materials",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Round Corners Roundness",
+					"Label" : "Round Corners Roundness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Roughness Squared",
+					"Label" : "Roughness Squared",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness Squared",
+					"Label" : "Glossiness Squared",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "BSDF Type",
+					"Label" : "BSDF Type",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "OutlineColorID",
+					"Label" : "Material ID",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Exclude From White Mode",
+					"Label" : "Exclude From White Mode",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 4,
+			"Asset Name" : "YuzuruHair_228230",
+			"Asset Label" : "YuzuruHair",
+			"Material Name" : "Cap_Mat",
+			"Material Type" : "Iray Uber",
+			"Value" : "Follower/Hair",
+			"Properties" : [
+				{
+					"Name" : "Asset Type",
+					"Label" : "Asset Type",
+					"Value" : "Follower/Hair",
+					"Data Type" : "String",
+					"Texture" : ""
+				},
+				{
+					"Name" : "UV Set",
+					"Label" : "UV Set",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Label" : "Smooth",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Label" : "Angle",
+					"Value" : 89.9,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Label" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Label" : "Line Start Width (mm)",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Label" : "Line End Width (mm)",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Label" : "Line UV Width",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Label" : "Render Priority",
+					"Value" : 3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Label" : "Propagate Priority",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Label" : "Follow Blend",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Base Mixing",
+					"Label" : "Base Mixing",
+					"Value" : 2,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Weight",
+					"Label" : "Metallicity",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Weight",
+					"Label" : "Diffuse Weight",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Label" : "Base Color",
+					"Value" : "#858585",
+					"Data Type" : "Color",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/YuzuruHair  Dark.jpg"
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Label" : "Diffuse Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Roughness",
+					"Label" : "Diffuse Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Weight",
+					"Label" : "Diffuse Overlay Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Weight Squared",
+					"Label" : "Diffuse Overlay Weight Squared",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Color",
+					"Label" : "Diffuse Overlay Color",
+					"Value" : "#c0c0c0",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Color Effect",
+					"Label" : "Diffuse Overlay Color Effect",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Roughness",
+					"Label" : "Diffuse Overlay Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Translucency Weight",
+					"Label" : "Translucency Weight",
+					"Value" : 0.25,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Base Color Effect",
+					"Label" : "Base Color Effect",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Translucency Color",
+					"Label" : "Translucency Color",
+					"Value" : "#666471",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Invert Transmission Normal",
+					"Label" : "Invert Transmission Normal",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Reflectance Tint",
+					"Label" : "SSS Reflectance Tint",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Dual Lobe Specular Weight",
+					"Label" : "Dual Lobe Specular Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Dual Lobe Specular Reflectivity",
+					"Label" : "Dual Lobe Specular Reflectivity",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Lobe 1 Roughness",
+					"Label" : "Specular Lobe 1 Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Lobe 2 Roughness",
+					"Label" : "Specular Lobe 2 Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Lobe 1 Glossiness",
+					"Label" : "Specular Lobe 1 Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Lobe 2 Glossiness",
+					"Label" : "Specular Lobe 2 Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Dual Lobe Specular Ratio",
+					"Label" : "Dual Lobe Specular Ratio",
+					"Value" : 0.85,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Weight",
+					"Label" : "Glossy Weight",
+					"Value" : 0.7,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/Yuzuru Gloss 01.jpg"
+				},
+				{
+					"Name" : "Glossy Layered Weight",
+					"Label" : "Glossy Layered Weight",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Share Glossy Inputs",
+					"Label" : "Share Glossy Inputs",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Color",
+					"Label" : "Glossy Color",
+					"Value" : "#716d75",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Color Effect",
+					"Label" : "Glossy Color Effect",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Reflectivity",
+					"Label" : "Glossy Reflectivity",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Specular",
+					"Label" : "Glossy Specular",
+					"Value" : "#3b3b3b",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Roughness",
+					"Label" : "Glossy Roughness",
+					"Value" : 0.6037736,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness",
+					"Label" : "Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Anisotropy",
+					"Label" : "Glossy Anisotropy",
+					"Value" : 0.6,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Weight",
+					"Label" : "Backscattering Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Color",
+					"Label" : "Backscattering Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Roughness",
+					"Label" : "Backscattering Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Glossiness",
+					"Label" : "Backscattering Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Anisotropy",
+					"Label" : "Backscattering Anisotropy",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Index",
+					"Label" : "Refraction Index",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Weight",
+					"Label" : "Refraction Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Color",
+					"Label" : "Refraction Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Roughness",
+					"Label" : "Refraction Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Glossiness",
+					"Label" : "Refraction Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Abbe",
+					"Label" : "Abbe",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Anisotropy Rotations",
+					"Label" : "Glossy Anisotropy Rotations",
+					"Value" : 0.2169811,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Base Thin Film",
+					"Label" : "Base Thin Film",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Base Thin Film IOR",
+					"Label" : "Base Thin Film IOR",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Label" : "Base Bump",
+					"Value" : 2,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/YuzuruHair Bump.jpg"
+				},
+				{
+					"Name" : "Normal Map",
+					"Label" : "Normal Map",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/YuzuruHair Normal.jpg"
+				},
+				{
+					"Name" : "Metallic Flakes Weight",
+					"Label" : "Metallic Flakes Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Color",
+					"Label" : "Metallic Flakes Color",
+					"Value" : "#d8dbff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Color Effect",
+					"Label" : "Metallic Flakes Color Effect",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Roughness",
+					"Label" : "Metallic Flakes Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Glossiness",
+					"Label" : "Metallic Flakes Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Size",
+					"Label" : "Metallic Flakes Size",
+					"Value" : 0.001,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Strength",
+					"Label" : "Metallic Flakes Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Density",
+					"Label" : "Metallic Flakes Density",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Thin Film",
+					"Label" : "Metallic Flakes Thin Film",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Thin Film IOR",
+					"Label" : "Metallic Flakes Thin Film IOR",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Weight",
+					"Label" : "Top Coat Weight",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/Yuzuru Coat 02.jpg"
+				},
+				{
+					"Name" : "Top Coat Color",
+					"Label" : "Top Coat Color",
+					"Value" : "#929397",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Color Effect",
+					"Label" : "Top Coat Color Effect",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Roughness",
+					"Label" : "Top Coat Roughness",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Glossiness",
+					"Label" : "Top Coat Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Layering Mode",
+					"Label" : "Top Coat Layering Mode",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflectivity",
+					"Label" : "Reflectivity",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat IOR",
+					"Label" : "Top Coat IOR",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Curve Normal",
+					"Label" : "Top Coat Curve 0",
+					"Value" : 0.04,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Curve Grazing",
+					"Label" : "Top Coat Curve 90",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Curve Exponent",
+					"Label" : "Top Coat Curve Exponent",
+					"Value" : 5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Anisotropy",
+					"Label" : "Top Coat Anisotropy",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Rotations",
+					"Label" : "Top Coat Rotations",
+					"Value" : 0.26,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Thin Film",
+					"Label" : "Top Coat Thin Film",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Thin Film IOR",
+					"Label" : "Top Coat Thin Film IOR",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Bump Mode",
+					"Label" : "Top Coat Bump Mode",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Bump",
+					"Label" : "Top Coat Bump",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Thin Walled",
+					"Label" : "Thin Walled",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Transmitted Measurement Distance",
+					"Label" : "Transmitted Measurement Distance",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Transmitted Color",
+					"Label" : "Transmitted Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Mode",
+					"Label" : "SSS Mode",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scattering Measurement Distance",
+					"Label" : "Scattering Measurement Distance",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Amount",
+					"Label" : "SSS Amount",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Color",
+					"Label" : "SSS Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Direction",
+					"Label" : "SSS Direction",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Emission Color",
+					"Label" : "Emission Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Emission Temperature",
+					"Label" : "Emission Temperature (K)",
+					"Value" : 6500,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Two Sided Light",
+					"Label" : "Two Sided Light",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Luminance",
+					"Label" : "Luminance",
+					"Value" : 1500,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Luminance Units",
+					"Label" : "Luminance Units",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Luminous Efficacy",
+					"Label" : "Luminous Efficacy (lm/W)",
+					"Value" : 15,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Cutout Opacity",
+					"Label" : "Cutout Opacity",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/Yuzuru Hair Cap T.jpg"
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Label" : "Displacement Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Label" : "Minimum Displacement",
+					"Value" : -0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Label" : "Maximum Displacement",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SubD Displacement Level",
+					"Label" : "SubD Displacement Level",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Label" : "Horizontal Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Label" : "Horizontal Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Label" : "Vertical Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Label" : "Vertical Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Round Corners Radius",
+					"Label" : "Round Corners Radius",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Round Corners Across Materials",
+					"Label" : "Round Corners Across Materials",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Round Corners Roundness",
+					"Label" : "Round Corners Roundness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Roughness Squared",
+					"Label" : "Roughness Squared",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness Squared",
+					"Label" : "Glossiness Squared",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "BSDF Type",
+					"Label" : "BSDF Type",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "OutlineColorID",
+					"Label" : "Material ID",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Exclude From White Mode",
+					"Label" : "Exclude From White Mode",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 4,
+			"Asset Name" : "YuzuruHair_228230",
+			"Asset Label" : "YuzuruHair",
+			"Material Name" : "Tail_Mat",
+			"Material Type" : "Iray Uber",
+			"Value" : "Follower/Hair",
+			"Properties" : [
+				{
+					"Name" : "Asset Type",
+					"Label" : "Asset Type",
+					"Value" : "Follower/Hair",
+					"Data Type" : "String",
+					"Texture" : ""
+				},
+				{
+					"Name" : "UV Set",
+					"Label" : "UV Set",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Label" : "Smooth",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Label" : "Angle",
+					"Value" : 89.9,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Label" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Label" : "Line Start Width (mm)",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Label" : "Line End Width (mm)",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Label" : "Line UV Width",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Label" : "Render Priority",
+					"Value" : 3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Label" : "Propagate Priority",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Label" : "Follow Blend",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Base Mixing",
+					"Label" : "Base Mixing",
+					"Value" : 2,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Weight",
+					"Label" : "Metallicity",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Weight",
+					"Label" : "Diffuse Weight",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Label" : "Base Color",
+					"Value" : "#858585",
+					"Data Type" : "Color",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/YuzuruHair  Dark.jpg"
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Label" : "Diffuse Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Roughness",
+					"Label" : "Diffuse Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Weight",
+					"Label" : "Diffuse Overlay Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Weight Squared",
+					"Label" : "Diffuse Overlay Weight Squared",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Color",
+					"Label" : "Diffuse Overlay Color",
+					"Value" : "#c0c0c0",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Color Effect",
+					"Label" : "Diffuse Overlay Color Effect",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Roughness",
+					"Label" : "Diffuse Overlay Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Translucency Weight",
+					"Label" : "Translucency Weight",
+					"Value" : 0.25,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Base Color Effect",
+					"Label" : "Base Color Effect",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Translucency Color",
+					"Label" : "Translucency Color",
+					"Value" : "#666471",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Invert Transmission Normal",
+					"Label" : "Invert Transmission Normal",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Reflectance Tint",
+					"Label" : "SSS Reflectance Tint",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Dual Lobe Specular Weight",
+					"Label" : "Dual Lobe Specular Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Dual Lobe Specular Reflectivity",
+					"Label" : "Dual Lobe Specular Reflectivity",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Lobe 1 Roughness",
+					"Label" : "Specular Lobe 1 Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Lobe 2 Roughness",
+					"Label" : "Specular Lobe 2 Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Lobe 1 Glossiness",
+					"Label" : "Specular Lobe 1 Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Lobe 2 Glossiness",
+					"Label" : "Specular Lobe 2 Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Dual Lobe Specular Ratio",
+					"Label" : "Dual Lobe Specular Ratio",
+					"Value" : 0.85,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Weight",
+					"Label" : "Glossy Weight",
+					"Value" : 0.7,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/Yuzuru Gloss 01.jpg"
+				},
+				{
+					"Name" : "Glossy Layered Weight",
+					"Label" : "Glossy Layered Weight",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Share Glossy Inputs",
+					"Label" : "Share Glossy Inputs",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Color",
+					"Label" : "Glossy Color",
+					"Value" : "#716d75",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Color Effect",
+					"Label" : "Glossy Color Effect",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Reflectivity",
+					"Label" : "Glossy Reflectivity",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Specular",
+					"Label" : "Glossy Specular",
+					"Value" : "#3b3b3b",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Roughness",
+					"Label" : "Glossy Roughness",
+					"Value" : 0.6037736,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness",
+					"Label" : "Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Anisotropy",
+					"Label" : "Glossy Anisotropy",
+					"Value" : 0.6,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Weight",
+					"Label" : "Backscattering Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Color",
+					"Label" : "Backscattering Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Roughness",
+					"Label" : "Backscattering Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Glossiness",
+					"Label" : "Backscattering Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Anisotropy",
+					"Label" : "Backscattering Anisotropy",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Index",
+					"Label" : "Refraction Index",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Weight",
+					"Label" : "Refraction Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Color",
+					"Label" : "Refraction Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Roughness",
+					"Label" : "Refraction Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Glossiness",
+					"Label" : "Refraction Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Abbe",
+					"Label" : "Abbe",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Anisotropy Rotations",
+					"Label" : "Glossy Anisotropy Rotations",
+					"Value" : 0.2169811,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Base Thin Film",
+					"Label" : "Base Thin Film",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Base Thin Film IOR",
+					"Label" : "Base Thin Film IOR",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Label" : "Base Bump",
+					"Value" : 2,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/YuzuruHair Bump.jpg"
+				},
+				{
+					"Name" : "Normal Map",
+					"Label" : "Normal Map",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/YuzuruHair Normal.jpg"
+				},
+				{
+					"Name" : "Metallic Flakes Weight",
+					"Label" : "Metallic Flakes Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Color",
+					"Label" : "Metallic Flakes Color",
+					"Value" : "#d8dbff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Color Effect",
+					"Label" : "Metallic Flakes Color Effect",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Roughness",
+					"Label" : "Metallic Flakes Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Glossiness",
+					"Label" : "Metallic Flakes Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Size",
+					"Label" : "Metallic Flakes Size",
+					"Value" : 0.001,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Strength",
+					"Label" : "Metallic Flakes Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Density",
+					"Label" : "Metallic Flakes Density",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Thin Film",
+					"Label" : "Metallic Flakes Thin Film",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Thin Film IOR",
+					"Label" : "Metallic Flakes Thin Film IOR",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Weight",
+					"Label" : "Top Coat Weight",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/Yuzuru Coat 02.jpg"
+				},
+				{
+					"Name" : "Top Coat Color",
+					"Label" : "Top Coat Color",
+					"Value" : "#929397",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Color Effect",
+					"Label" : "Top Coat Color Effect",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Roughness",
+					"Label" : "Top Coat Roughness",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Glossiness",
+					"Label" : "Top Coat Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Layering Mode",
+					"Label" : "Top Coat Layering Mode",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflectivity",
+					"Label" : "Reflectivity",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat IOR",
+					"Label" : "Top Coat IOR",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Curve Normal",
+					"Label" : "Top Coat Curve 0",
+					"Value" : 0.04,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Curve Grazing",
+					"Label" : "Top Coat Curve 90",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Curve Exponent",
+					"Label" : "Top Coat Curve Exponent",
+					"Value" : 5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Anisotropy",
+					"Label" : "Top Coat Anisotropy",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Rotations",
+					"Label" : "Top Coat Rotations",
+					"Value" : 0.26,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Thin Film",
+					"Label" : "Top Coat Thin Film",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Thin Film IOR",
+					"Label" : "Top Coat Thin Film IOR",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Bump Mode",
+					"Label" : "Top Coat Bump Mode",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Bump",
+					"Label" : "Top Coat Bump",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/YuzuruHair Bump 02.jpg"
+				},
+				{
+					"Name" : "Thin Walled",
+					"Label" : "Thin Walled",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Transmitted Measurement Distance",
+					"Label" : "Transmitted Measurement Distance",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Transmitted Color",
+					"Label" : "Transmitted Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Mode",
+					"Label" : "SSS Mode",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scattering Measurement Distance",
+					"Label" : "Scattering Measurement Distance",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Amount",
+					"Label" : "SSS Amount",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Color",
+					"Label" : "SSS Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Direction",
+					"Label" : "SSS Direction",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Emission Color",
+					"Label" : "Emission Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Emission Temperature",
+					"Label" : "Emission Temperature (K)",
+					"Value" : 6500,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Two Sided Light",
+					"Label" : "Two Sided Light",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Luminance",
+					"Label" : "Luminance",
+					"Value" : 1500,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Luminance Units",
+					"Label" : "Luminance Units",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Luminous Efficacy",
+					"Label" : "Luminous Efficacy (lm/W)",
+					"Value" : 15,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Cutout Opacity",
+					"Label" : "Cutout Opacity",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/YuzuruHair T.jpg"
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Label" : "Displacement Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Label" : "Minimum Displacement",
+					"Value" : -0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Label" : "Maximum Displacement",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SubD Displacement Level",
+					"Label" : "SubD Displacement Level",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Label" : "Horizontal Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Label" : "Horizontal Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Label" : "Vertical Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Label" : "Vertical Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Round Corners Radius",
+					"Label" : "Round Corners Radius",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Round Corners Across Materials",
+					"Label" : "Round Corners Across Materials",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Round Corners Roundness",
+					"Label" : "Round Corners Roundness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Roughness Squared",
+					"Label" : "Roughness Squared",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness Squared",
+					"Label" : "Glossiness Squared",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "BSDF Type",
+					"Label" : "BSDF Type",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "OutlineColorID",
+					"Label" : "Material ID",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Exclude From White Mode",
+					"Label" : "Exclude From White Mode",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 4,
+			"Asset Name" : "YuzuruHair_228230",
+			"Asset Label" : "YuzuruHair",
+			"Material Name" : "Front_Mat",
+			"Material Type" : "Iray Uber",
+			"Value" : "Follower/Hair",
+			"Properties" : [
+				{
+					"Name" : "Asset Type",
+					"Label" : "Asset Type",
+					"Value" : "Follower/Hair",
+					"Data Type" : "String",
+					"Texture" : ""
+				},
+				{
+					"Name" : "UV Set",
+					"Label" : "UV Set",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Label" : "Smooth",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Label" : "Angle",
+					"Value" : 89.9,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Label" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Label" : "Line Start Width (mm)",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Label" : "Line End Width (mm)",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Label" : "Line UV Width",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Label" : "Render Priority",
+					"Value" : 3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Label" : "Propagate Priority",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Label" : "Follow Blend",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Base Mixing",
+					"Label" : "Base Mixing",
+					"Value" : 2,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Weight",
+					"Label" : "Metallicity",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Weight",
+					"Label" : "Diffuse Weight",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Label" : "Base Color",
+					"Value" : "#858585",
+					"Data Type" : "Color",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/YuzuruHair  Dark.jpg"
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Label" : "Diffuse Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Roughness",
+					"Label" : "Diffuse Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Weight",
+					"Label" : "Diffuse Overlay Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Weight Squared",
+					"Label" : "Diffuse Overlay Weight Squared",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Color",
+					"Label" : "Diffuse Overlay Color",
+					"Value" : "#c0c0c0",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Color Effect",
+					"Label" : "Diffuse Overlay Color Effect",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Roughness",
+					"Label" : "Diffuse Overlay Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Translucency Weight",
+					"Label" : "Translucency Weight",
+					"Value" : 0.25,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Base Color Effect",
+					"Label" : "Base Color Effect",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Translucency Color",
+					"Label" : "Translucency Color",
+					"Value" : "#666471",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Invert Transmission Normal",
+					"Label" : "Invert Transmission Normal",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Reflectance Tint",
+					"Label" : "SSS Reflectance Tint",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Dual Lobe Specular Weight",
+					"Label" : "Dual Lobe Specular Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Dual Lobe Specular Reflectivity",
+					"Label" : "Dual Lobe Specular Reflectivity",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Lobe 1 Roughness",
+					"Label" : "Specular Lobe 1 Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Lobe 2 Roughness",
+					"Label" : "Specular Lobe 2 Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Lobe 1 Glossiness",
+					"Label" : "Specular Lobe 1 Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Lobe 2 Glossiness",
+					"Label" : "Specular Lobe 2 Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Dual Lobe Specular Ratio",
+					"Label" : "Dual Lobe Specular Ratio",
+					"Value" : 0.85,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Weight",
+					"Label" : "Glossy Weight",
+					"Value" : 0.7,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/Yuzuru Gloss 01.jpg"
+				},
+				{
+					"Name" : "Glossy Layered Weight",
+					"Label" : "Glossy Layered Weight",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Share Glossy Inputs",
+					"Label" : "Share Glossy Inputs",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Color",
+					"Label" : "Glossy Color",
+					"Value" : "#716d75",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Color Effect",
+					"Label" : "Glossy Color Effect",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Reflectivity",
+					"Label" : "Glossy Reflectivity",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Specular",
+					"Label" : "Glossy Specular",
+					"Value" : "#3b3b3b",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Roughness",
+					"Label" : "Glossy Roughness",
+					"Value" : 0.6037736,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness",
+					"Label" : "Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Anisotropy",
+					"Label" : "Glossy Anisotropy",
+					"Value" : 0.6,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Weight",
+					"Label" : "Backscattering Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Color",
+					"Label" : "Backscattering Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Roughness",
+					"Label" : "Backscattering Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Glossiness",
+					"Label" : "Backscattering Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Anisotropy",
+					"Label" : "Backscattering Anisotropy",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Index",
+					"Label" : "Refraction Index",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Weight",
+					"Label" : "Refraction Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Color",
+					"Label" : "Refraction Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Roughness",
+					"Label" : "Refraction Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Glossiness",
+					"Label" : "Refraction Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Abbe",
+					"Label" : "Abbe",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Anisotropy Rotations",
+					"Label" : "Glossy Anisotropy Rotations",
+					"Value" : 0.2169811,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Base Thin Film",
+					"Label" : "Base Thin Film",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Base Thin Film IOR",
+					"Label" : "Base Thin Film IOR",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Label" : "Base Bump",
+					"Value" : 2,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/YuzuruHair Bump.jpg"
+				},
+				{
+					"Name" : "Normal Map",
+					"Label" : "Normal Map",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/YuzuruHair Normal.jpg"
+				},
+				{
+					"Name" : "Metallic Flakes Weight",
+					"Label" : "Metallic Flakes Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Color",
+					"Label" : "Metallic Flakes Color",
+					"Value" : "#d8dbff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Color Effect",
+					"Label" : "Metallic Flakes Color Effect",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Roughness",
+					"Label" : "Metallic Flakes Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Glossiness",
+					"Label" : "Metallic Flakes Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Size",
+					"Label" : "Metallic Flakes Size",
+					"Value" : 0.001,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Strength",
+					"Label" : "Metallic Flakes Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Density",
+					"Label" : "Metallic Flakes Density",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Thin Film",
+					"Label" : "Metallic Flakes Thin Film",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Thin Film IOR",
+					"Label" : "Metallic Flakes Thin Film IOR",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Weight",
+					"Label" : "Top Coat Weight",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/Yuzuru Coat 02.jpg"
+				},
+				{
+					"Name" : "Top Coat Color",
+					"Label" : "Top Coat Color",
+					"Value" : "#929397",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Color Effect",
+					"Label" : "Top Coat Color Effect",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Roughness",
+					"Label" : "Top Coat Roughness",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Glossiness",
+					"Label" : "Top Coat Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Layering Mode",
+					"Label" : "Top Coat Layering Mode",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflectivity",
+					"Label" : "Reflectivity",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat IOR",
+					"Label" : "Top Coat IOR",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Curve Normal",
+					"Label" : "Top Coat Curve 0",
+					"Value" : 0.04,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Curve Grazing",
+					"Label" : "Top Coat Curve 90",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Curve Exponent",
+					"Label" : "Top Coat Curve Exponent",
+					"Value" : 5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Anisotropy",
+					"Label" : "Top Coat Anisotropy",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Rotations",
+					"Label" : "Top Coat Rotations",
+					"Value" : 0.26,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Thin Film",
+					"Label" : "Top Coat Thin Film",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Thin Film IOR",
+					"Label" : "Top Coat Thin Film IOR",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Bump Mode",
+					"Label" : "Top Coat Bump Mode",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Bump",
+					"Label" : "Top Coat Bump",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/YuzuruHair Bump 02.jpg"
+				},
+				{
+					"Name" : "Thin Walled",
+					"Label" : "Thin Walled",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Transmitted Measurement Distance",
+					"Label" : "Transmitted Measurement Distance",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Transmitted Color",
+					"Label" : "Transmitted Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Mode",
+					"Label" : "SSS Mode",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scattering Measurement Distance",
+					"Label" : "Scattering Measurement Distance",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Amount",
+					"Label" : "SSS Amount",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Color",
+					"Label" : "SSS Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Direction",
+					"Label" : "SSS Direction",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Emission Color",
+					"Label" : "Emission Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Emission Temperature",
+					"Label" : "Emission Temperature (K)",
+					"Value" : 6500,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Two Sided Light",
+					"Label" : "Two Sided Light",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Luminance",
+					"Label" : "Luminance",
+					"Value" : 1500,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Luminance Units",
+					"Label" : "Luminance Units",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Luminous Efficacy",
+					"Label" : "Luminous Efficacy (lm/W)",
+					"Value" : 15,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Cutout Opacity",
+					"Label" : "Cutout Opacity",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/YuzuruHair T.jpg"
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Label" : "Displacement Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Label" : "Minimum Displacement",
+					"Value" : -0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Label" : "Maximum Displacement",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SubD Displacement Level",
+					"Label" : "SubD Displacement Level",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Label" : "Horizontal Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Label" : "Horizontal Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Label" : "Vertical Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Label" : "Vertical Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Round Corners Radius",
+					"Label" : "Round Corners Radius",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Round Corners Across Materials",
+					"Label" : "Round Corners Across Materials",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Round Corners Roundness",
+					"Label" : "Round Corners Roundness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Roughness Squared",
+					"Label" : "Roughness Squared",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness Squared",
+					"Label" : "Glossiness Squared",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "BSDF Type",
+					"Label" : "BSDF Type",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "OutlineColorID",
+					"Label" : "Material ID",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Exclude From White Mode",
+					"Label" : "Exclude From White Mode",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 4,
+			"Asset Name" : "YuzuruHair_228230",
+			"Asset Label" : "YuzuruHair",
+			"Material Name" : "Sides_Mat",
+			"Material Type" : "Iray Uber",
+			"Value" : "Follower/Hair",
+			"Properties" : [
+				{
+					"Name" : "Asset Type",
+					"Label" : "Asset Type",
+					"Value" : "Follower/Hair",
+					"Data Type" : "String",
+					"Texture" : ""
+				},
+				{
+					"Name" : "UV Set",
+					"Label" : "UV Set",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Label" : "Smooth",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Label" : "Angle",
+					"Value" : 89.9,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Label" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Label" : "Line Start Width (mm)",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Label" : "Line End Width (mm)",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Label" : "Line UV Width",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Label" : "Render Priority",
+					"Value" : 3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Label" : "Propagate Priority",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Label" : "Follow Blend",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Base Mixing",
+					"Label" : "Base Mixing",
+					"Value" : 2,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Weight",
+					"Label" : "Metallicity",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Weight",
+					"Label" : "Diffuse Weight",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Label" : "Base Color",
+					"Value" : "#858585",
+					"Data Type" : "Color",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/YuzuruHair  Dark.jpg"
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Label" : "Diffuse Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Roughness",
+					"Label" : "Diffuse Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Weight",
+					"Label" : "Diffuse Overlay Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Weight Squared",
+					"Label" : "Diffuse Overlay Weight Squared",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Color",
+					"Label" : "Diffuse Overlay Color",
+					"Value" : "#c0c0c0",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Color Effect",
+					"Label" : "Diffuse Overlay Color Effect",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Roughness",
+					"Label" : "Diffuse Overlay Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Translucency Weight",
+					"Label" : "Translucency Weight",
+					"Value" : 0.25,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Base Color Effect",
+					"Label" : "Base Color Effect",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Translucency Color",
+					"Label" : "Translucency Color",
+					"Value" : "#666471",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Invert Transmission Normal",
+					"Label" : "Invert Transmission Normal",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Reflectance Tint",
+					"Label" : "SSS Reflectance Tint",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Dual Lobe Specular Weight",
+					"Label" : "Dual Lobe Specular Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Dual Lobe Specular Reflectivity",
+					"Label" : "Dual Lobe Specular Reflectivity",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Lobe 1 Roughness",
+					"Label" : "Specular Lobe 1 Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Lobe 2 Roughness",
+					"Label" : "Specular Lobe 2 Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Lobe 1 Glossiness",
+					"Label" : "Specular Lobe 1 Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Lobe 2 Glossiness",
+					"Label" : "Specular Lobe 2 Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Dual Lobe Specular Ratio",
+					"Label" : "Dual Lobe Specular Ratio",
+					"Value" : 0.85,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Weight",
+					"Label" : "Glossy Weight",
+					"Value" : 0.7,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/Yuzuru Gloss 01.jpg"
+				},
+				{
+					"Name" : "Glossy Layered Weight",
+					"Label" : "Glossy Layered Weight",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Share Glossy Inputs",
+					"Label" : "Share Glossy Inputs",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Color",
+					"Label" : "Glossy Color",
+					"Value" : "#716d75",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Color Effect",
+					"Label" : "Glossy Color Effect",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Reflectivity",
+					"Label" : "Glossy Reflectivity",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Specular",
+					"Label" : "Glossy Specular",
+					"Value" : "#3b3b3b",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Roughness",
+					"Label" : "Glossy Roughness",
+					"Value" : 0.6037736,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness",
+					"Label" : "Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Anisotropy",
+					"Label" : "Glossy Anisotropy",
+					"Value" : 0.6,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Weight",
+					"Label" : "Backscattering Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Color",
+					"Label" : "Backscattering Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Roughness",
+					"Label" : "Backscattering Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Glossiness",
+					"Label" : "Backscattering Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Anisotropy",
+					"Label" : "Backscattering Anisotropy",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Index",
+					"Label" : "Refraction Index",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Weight",
+					"Label" : "Refraction Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Color",
+					"Label" : "Refraction Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Roughness",
+					"Label" : "Refraction Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Glossiness",
+					"Label" : "Refraction Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Abbe",
+					"Label" : "Abbe",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Anisotropy Rotations",
+					"Label" : "Glossy Anisotropy Rotations",
+					"Value" : 0.2169811,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Base Thin Film",
+					"Label" : "Base Thin Film",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Base Thin Film IOR",
+					"Label" : "Base Thin Film IOR",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Label" : "Base Bump",
+					"Value" : 2,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/YuzuruHair Bump.jpg"
+				},
+				{
+					"Name" : "Normal Map",
+					"Label" : "Normal Map",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/YuzuruHair Normal.jpg"
+				},
+				{
+					"Name" : "Metallic Flakes Weight",
+					"Label" : "Metallic Flakes Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Color",
+					"Label" : "Metallic Flakes Color",
+					"Value" : "#d8dbff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Color Effect",
+					"Label" : "Metallic Flakes Color Effect",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Roughness",
+					"Label" : "Metallic Flakes Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Glossiness",
+					"Label" : "Metallic Flakes Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Size",
+					"Label" : "Metallic Flakes Size",
+					"Value" : 0.001,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Strength",
+					"Label" : "Metallic Flakes Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Density",
+					"Label" : "Metallic Flakes Density",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Thin Film",
+					"Label" : "Metallic Flakes Thin Film",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Thin Film IOR",
+					"Label" : "Metallic Flakes Thin Film IOR",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Weight",
+					"Label" : "Top Coat Weight",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/Yuzuru Coat 02.jpg"
+				},
+				{
+					"Name" : "Top Coat Color",
+					"Label" : "Top Coat Color",
+					"Value" : "#929397",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Color Effect",
+					"Label" : "Top Coat Color Effect",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Roughness",
+					"Label" : "Top Coat Roughness",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Glossiness",
+					"Label" : "Top Coat Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Layering Mode",
+					"Label" : "Top Coat Layering Mode",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflectivity",
+					"Label" : "Reflectivity",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat IOR",
+					"Label" : "Top Coat IOR",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Curve Normal",
+					"Label" : "Top Coat Curve 0",
+					"Value" : 0.04,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Curve Grazing",
+					"Label" : "Top Coat Curve 90",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Curve Exponent",
+					"Label" : "Top Coat Curve Exponent",
+					"Value" : 5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Anisotropy",
+					"Label" : "Top Coat Anisotropy",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Rotations",
+					"Label" : "Top Coat Rotations",
+					"Value" : 0.26,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Thin Film",
+					"Label" : "Top Coat Thin Film",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Thin Film IOR",
+					"Label" : "Top Coat Thin Film IOR",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Bump Mode",
+					"Label" : "Top Coat Bump Mode",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Bump",
+					"Label" : "Top Coat Bump",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/YuzuruHair Bump 02.jpg"
+				},
+				{
+					"Name" : "Thin Walled",
+					"Label" : "Thin Walled",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Transmitted Measurement Distance",
+					"Label" : "Transmitted Measurement Distance",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Transmitted Color",
+					"Label" : "Transmitted Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Mode",
+					"Label" : "SSS Mode",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scattering Measurement Distance",
+					"Label" : "Scattering Measurement Distance",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Amount",
+					"Label" : "SSS Amount",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Color",
+					"Label" : "SSS Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Direction",
+					"Label" : "SSS Direction",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Emission Color",
+					"Label" : "Emission Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Emission Temperature",
+					"Label" : "Emission Temperature (K)",
+					"Value" : 6500,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Two Sided Light",
+					"Label" : "Two Sided Light",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Luminance",
+					"Label" : "Luminance",
+					"Value" : 1500,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Luminance Units",
+					"Label" : "Luminance Units",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Luminous Efficacy",
+					"Label" : "Luminous Efficacy (lm/W)",
+					"Value" : 15,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Cutout Opacity",
+					"Label" : "Cutout Opacity",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/YuzuruHair T.jpg"
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Label" : "Displacement Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Label" : "Minimum Displacement",
+					"Value" : -0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Label" : "Maximum Displacement",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SubD Displacement Level",
+					"Label" : "SubD Displacement Level",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Label" : "Horizontal Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Label" : "Horizontal Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Label" : "Vertical Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Label" : "Vertical Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Round Corners Radius",
+					"Label" : "Round Corners Radius",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Round Corners Across Materials",
+					"Label" : "Round Corners Across Materials",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Round Corners Roundness",
+					"Label" : "Round Corners Roundness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Roughness Squared",
+					"Label" : "Roughness Squared",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness Squared",
+					"Label" : "Glossiness Squared",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "BSDF Type",
+					"Label" : "BSDF Type",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "OutlineColorID",
+					"Label" : "Material ID",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Exclude From White Mode",
+					"Label" : "Exclude From White Mode",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 4,
+			"Asset Name" : "YuzuruHair_228230",
+			"Asset Label" : "YuzuruHair",
+			"Material Name" : "Strings_Mat",
+			"Material Type" : "Iray Uber",
+			"Value" : "Follower/Hair",
+			"Properties" : [
+				{
+					"Name" : "Asset Type",
+					"Label" : "Asset Type",
+					"Value" : "Follower/Hair",
+					"Data Type" : "String",
+					"Texture" : ""
+				},
+				{
+					"Name" : "UV Set",
+					"Label" : "UV Set",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Label" : "Smooth",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Label" : "Angle",
+					"Value" : 89.9,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Label" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Label" : "Line Start Width (mm)",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Label" : "Line End Width (mm)",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Label" : "Line UV Width",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Label" : "Render Priority",
+					"Value" : 3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Label" : "Propagate Priority",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Label" : "Follow Blend",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Base Mixing",
+					"Label" : "Base Mixing",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Weight",
+					"Label" : "Metallicity",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Weight",
+					"Label" : "Diffuse Weight",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Label" : "Base Color",
+					"Value" : "#976b5c",
+					"Data Type" : "Color",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/YuzuruHair_Rubber_White.jpg"
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Label" : "Diffuse Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Roughness",
+					"Label" : "Diffuse Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Weight",
+					"Label" : "Diffuse Overlay Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Weight Squared",
+					"Label" : "Diffuse Overlay Weight Squared",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Color",
+					"Label" : "Diffuse Overlay Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Color Effect",
+					"Label" : "Diffuse Overlay Color Effect",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Overlay Roughness",
+					"Label" : "Diffuse Overlay Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Translucency Weight",
+					"Label" : "Translucency Weight",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Base Color Effect",
+					"Label" : "Base Color Effect",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Translucency Color",
+					"Label" : "Translucency Color",
+					"Value" : "#daad9e",
+					"Data Type" : "Color",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/YuzuruHair_Rubber_White.jpg"
+				},
+				{
+					"Name" : "Invert Transmission Normal",
+					"Label" : "Invert Transmission Normal",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Reflectance Tint",
+					"Label" : "SSS Reflectance Tint",
+					"Value" : "#debca4",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Dual Lobe Specular Weight",
+					"Label" : "Dual Lobe Specular Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Dual Lobe Specular Reflectivity",
+					"Label" : "Dual Lobe Specular Reflectivity",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Lobe 1 Roughness",
+					"Label" : "Specular Lobe 1 Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Lobe 2 Roughness",
+					"Label" : "Specular Lobe 2 Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Lobe 1 Glossiness",
+					"Label" : "Specular Lobe 1 Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Lobe 2 Glossiness",
+					"Label" : "Specular Lobe 2 Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Dual Lobe Specular Ratio",
+					"Label" : "Dual Lobe Specular Ratio",
+					"Value" : 0.85,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Weight",
+					"Label" : "Glossy Weight",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/Yuzuru Gloss 01.jpg"
+				},
+				{
+					"Name" : "Glossy Layered Weight",
+					"Label" : "Glossy Layered Weight",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Share Glossy Inputs",
+					"Label" : "Share Glossy Inputs",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Color",
+					"Label" : "Glossy Color",
+					"Value" : "#cdb3a0",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Color Effect",
+					"Label" : "Glossy Color Effect",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Reflectivity",
+					"Label" : "Glossy Reflectivity",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Specular",
+					"Label" : "Glossy Specular",
+					"Value" : "#3b3b3b",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Roughness",
+					"Label" : "Glossy Roughness",
+					"Value" : 0.55,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness",
+					"Label" : "Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Anisotropy",
+					"Label" : "Glossy Anisotropy",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Weight",
+					"Label" : "Backscattering Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Color",
+					"Label" : "Backscattering Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Roughness",
+					"Label" : "Backscattering Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Glossiness",
+					"Label" : "Backscattering Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Backscattering Anisotropy",
+					"Label" : "Backscattering Anisotropy",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Index",
+					"Label" : "Refraction Index",
+					"Value" : 1.55,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Weight",
+					"Label" : "Refraction Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Color",
+					"Label" : "Refraction Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Roughness",
+					"Label" : "Refraction Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Glossiness",
+					"Label" : "Refraction Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Abbe",
+					"Label" : "Abbe",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossy Anisotropy Rotations",
+					"Label" : "Glossy Anisotropy Rotations",
+					"Value" : 0.26,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Base Thin Film",
+					"Label" : "Base Thin Film",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Base Thin Film IOR",
+					"Label" : "Base Thin Film IOR",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Label" : "Base Bump",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/YuzuruHair Bump.jpg"
+				},
+				{
+					"Name" : "Normal Map",
+					"Label" : "Normal Map",
+					"Value" : 0.35,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Weight",
+					"Label" : "Metallic Flakes Weight",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Color",
+					"Label" : "Metallic Flakes Color",
+					"Value" : "#d8dbff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Color Effect",
+					"Label" : "Metallic Flakes Color Effect",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Roughness",
+					"Label" : "Metallic Flakes Roughness",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Glossiness",
+					"Label" : "Metallic Flakes Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Size",
+					"Label" : "Metallic Flakes Size",
+					"Value" : 0.001,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Strength",
+					"Label" : "Metallic Flakes Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Density",
+					"Label" : "Metallic Flakes Density",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Thin Film",
+					"Label" : "Metallic Flakes Thin Film",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Metallic Flakes Thin Film IOR",
+					"Label" : "Metallic Flakes Thin Film IOR",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Weight",
+					"Label" : "Top Coat Weight",
+					"Value" : 0.7329843,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/Yuzuru Coat 02.jpg"
+				},
+				{
+					"Name" : "Top Coat Color",
+					"Label" : "Top Coat Color",
+					"Value" : "#b18465",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Color Effect",
+					"Label" : "Top Coat Color Effect",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Roughness",
+					"Label" : "Top Coat Roughness",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Glossiness",
+					"Label" : "Top Coat Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Layering Mode",
+					"Label" : "Top Coat Layering Mode",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflectivity",
+					"Label" : "Reflectivity",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat IOR",
+					"Label" : "Top Coat IOR",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Curve Normal",
+					"Label" : "Top Coat Curve 0",
+					"Value" : 0.04,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Curve Grazing",
+					"Label" : "Top Coat Curve 90",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Curve Exponent",
+					"Label" : "Top Coat Curve Exponent",
+					"Value" : 5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Anisotropy",
+					"Label" : "Top Coat Anisotropy",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Rotations",
+					"Label" : "Top Coat Rotations",
+					"Value" : 0.25,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Thin Film",
+					"Label" : "Top Coat Thin Film",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Thin Film IOR",
+					"Label" : "Top Coat Thin Film IOR",
+					"Value" : 1.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Bump Mode",
+					"Label" : "Top Coat Bump Mode",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Top Coat Bump",
+					"Label" : "Top Coat Bump",
+					"Value" : 0.35,
+					"Data Type" : "Double",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/YuzuruHair Bump 02.jpg"
+				},
+				{
+					"Name" : "Thin Walled",
+					"Label" : "Thin Walled",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Transmitted Measurement Distance",
+					"Label" : "Transmitted Measurement Distance",
+					"Value" : 6,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Transmitted Color",
+					"Label" : "Transmitted Color",
+					"Value" : "#e6fff5",
+					"Data Type" : "Color",
+					"Texture" : "E:/softwaresM/dazPo/myresources1109/IM00999999-01_ChinaCharactersG8f/Content/Runtime/Textures/Crocodile/Yuzuru Hair/YuzuruHair Glossy 02.jpg"
+				},
+				{
+					"Name" : "SSS Mode",
+					"Label" : "SSS Mode",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scattering Measurement Distance",
+					"Label" : "Scattering Measurement Distance",
+					"Value" : 6,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Amount",
+					"Label" : "SSS Amount",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Color",
+					"Label" : "SSS Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SSS Direction",
+					"Label" : "SSS Direction",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Emission Color",
+					"Label" : "Emission Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Emission Temperature",
+					"Label" : "Emission Temperature (K)",
+					"Value" : 6500,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Two Sided Light",
+					"Label" : "Two Sided Light",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Luminance",
+					"Label" : "Luminance",
+					"Value" : 1500,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Luminance Units",
+					"Label" : "Luminance Units",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Luminous Efficacy",
+					"Label" : "Luminous Efficacy (lm/W)",
+					"Value" : 15,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Cutout Opacity",
+					"Label" : "Cutout Opacity",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Label" : "Displacement Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Label" : "Minimum Displacement",
+					"Value" : -0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Label" : "Maximum Displacement",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "SubD Displacement Level",
+					"Label" : "SubD Displacement Level",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Label" : "Horizontal Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Label" : "Horizontal Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Label" : "Vertical Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Label" : "Vertical Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Round Corners Radius",
+					"Label" : "Round Corners Radius",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Round Corners Across Materials",
+					"Label" : "Round Corners Across Materials",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Round Corners Roundness",
+					"Label" : "Round Corners Roundness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Roughness Squared",
+					"Label" : "Roughness Squared",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness Squared",
+					"Label" : "Glossiness Squared",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "BSDF Type",
+					"Label" : "BSDF Type",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "OutlineColorID",
+					"Label" : "Material ID",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Exclude From White Mode",
+					"Label" : "Exclude From White Mode",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		}
+	],
+	"Morphs" : [
+	],
+	"MorphLinks" : {
+	},
+	"MorphNames" : [
+	],
+	"SkeletonData" : {
+		"skeletonScale" : [
+			"skeletonScale",
+			1
+		],
+		"offset" : [
+			"offset",
+			0
+		]
+	},
+	"HeadTailData" : {
+		"hip" : [
+			0,
+			103.5941,
+			1.915123,
+			0,
+			86.67325,
+			1.915123,
+			0,
+			0,
+			-1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"pelvis" : [
+			0,
+			105.529,
+			1.80733,
+			0,
+			85.92525,
+			1.80733,
+			0,
+			0,
+			-1,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"abdomenLower" : [
+			0,
+			105.4197,
+			0.1559995,
+			0,
+			113.8012,
+			0.1559995,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"abdomenUpper" : [
+			0,
+			113.851,
+			0.7088884,
+			0,
+			121.6839,
+			0.7088884,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"chestLower" : [
+			0,
+			122.0601,
+			-0.008112133,
+			0,
+			142.9119,
+			-0.008112133,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"chestUpper" : [
+			0,
+			135.2389,
+			-3.512701,
+			0,
+			148.9489,
+			-3.512701,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"lCollar" : [
+			4.063411,
+			146.5237,
+			-4.624425,
+			15.6812,
+			146.8791,
+			-5.337446,
+			-0.03052319,
+			0.9995336,
+			0.0009355541,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"rCollar" : [
+			-4.063411,
+			146.5237,
+			-4.624425,
+			-15.6812,
+			146.8791,
+			-5.337446,
+			-0.03052319,
+			-0.9995336,
+			-0.0009355541,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"neckLower" : [
+			0,
+			154.2024,
+			-4.287979,
+			0,
+			157.9795,
+			-3.724011,
+			0,
+			-0.1476742,
+			0.9890361,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"neckUpper" : [
+			0,
+			157.7291,
+			-2.052884,
+			0,
+			163.1812,
+			-1.238827,
+			0,
+			-0.1476742,
+			0.9890361,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"head" : [
+			0,
+			163.1674,
+			-1.864532,
+			0,
+			166.7135,
+			-1.821386,
+			0,
+			-0.01216627,
+			0.999926,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"lowerJaw" : [
+			0,
+			164.9014,
+			0.1842566,
+			0,
+			161.5663,
+			7.836366,
+			0,
+			0.916714,
+			0.3995442,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0,
+			0
+		],
+		"upperFaceRig" : [
+			0,
+			163.1808,
+			-1.874151,
+			0,
+			166.7314,
+			-1.83095,
+			0,
+			-0.01216627,
+			0.999926,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"rBrowInner" : [
+			-2.04842,
+			171.5367,
+			9.223793,
+			-2.04842,
+			171.5367,
+			10.12374,
+			0,
+			1,
+			0,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"rBrowMid" : [
+			-3.896087,
+			171.7752,
+			8.895058,
+			-3.896087,
+			171.7752,
+			9.779591,
+			0,
+			1,
+			0,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"rBrowOuter" : [
+			-5.438126,
+			171.1506,
+			7.544299,
+			-5.438126,
+			171.1506,
+			8.465021,
+			0,
+			1,
+			0,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"lBrowInner" : [
+			2.04842,
+			171.5367,
+			9.223793,
+			2.04842,
+			171.5367,
+			10.12374,
+			0,
+			1,
+			0,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"lBrowMid" : [
+			3.896087,
+			171.7752,
+			8.895058,
+			3.896087,
+			171.7752,
+			9.779591,
+			0,
+			1,
+			0,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"lBrowOuter" : [
+			5.438126,
+			171.1506,
+			7.544299,
+			5.438126,
+			171.1506,
+			8.465021,
+			0,
+			1,
+			0,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"CenterBrow" : [
+			0,
+			171.4855,
+			9.702775,
+			0,
+			171.4855,
+			10.59234,
+			0,
+			1,
+			0,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"lCheekUpper" : [
+			5.425804,
+			166.6699,
+			6.965333,
+			5.425804,
+			166.6699,
+			7.991402,
+			0,
+			1,
+			0,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"rCheekUpper" : [
+			-5.425804,
+			166.6699,
+			6.965333,
+			-5.425804,
+			166.6699,
+			7.991402,
+			0,
+			1,
+			0,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"lEar" : [
+			6.844874,
+			167.5486,
+			-1.079517,
+			8.612247,
+			167.4245,
+			-4.113715,
+			0.03530968,
+			0.9991705,
+			-0.02028731,
+			1,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"rEar" : [
+			-6.844874,
+			167.5486,
+			-1.079517,
+			-8.612247,
+			167.4245,
+			-4.113715,
+			0.03530968,
+			-0.9991705,
+			0.02028731,
+			1,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"lPectoral" : [
+			3.68573,
+			130.4377,
+			-9.287436,
+			11.02682,
+			133.6098,
+			9.738045,
+			-0.05521584,
+			0.9881171,
+			-0.1434426,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"rPectoral" : [
+			-3.68573,
+			130.4377,
+			-9.287436,
+			-11.02682,
+			133.6098,
+			9.738047,
+			0.05521581,
+			0.9881171,
+			-0.1434426,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		]
+	},
+	"JointOrientation" : {
+		"hip" : [
+			"YZX",
+			0,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0
+		],
+		"pelvis" : [
+			"YZX",
+			0,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0
+		],
+		"abdomenLower" : [
+			"YZX",
+			0,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0
+		],
+		"abdomenUpper" : [
+			"YZX",
+			0,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0
+		],
+		"chestLower" : [
+			"YZX",
+			0,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0
+		],
+		"chestUpper" : [
+			"YZX",
+			0,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0
+		],
+		"lCollar" : [
+			"XYZ",
+			0.05370408,
+			3.510381,
+			1.752411,
+			0.9994141,
+			-2.307529e-12,
+			-0.03063264,
+			-0.01527054
+		],
+		"rCollar" : [
+			"XYZ",
+			0.05370408,
+			-3.510381,
+			-1.752411,
+			0.9994141,
+			-2.307529e-12,
+			0.03063264,
+			0.01527054
+		],
+		"neckLower" : [
+			"YZX",
+			8.492167,
+			0,
+			0,
+			0.9972552,
+			-0.07404032,
+			0,
+			0
+		],
+		"neckUpper" : [
+			"YZX",
+			8.492167,
+			0,
+			0,
+			0.9972552,
+			-0.07404032,
+			0,
+			0
+		],
+		"head" : [
+			"YZX",
+			0.6970931,
+			0,
+			0,
+			0.9999815,
+			-0.006083247,
+			0,
+			0
+		],
+		"lowerJaw" : [
+			"ZYX",
+			23.54969,
+			0,
+			0,
+			0.9789571,
+			-0.2040663,
+			0,
+			0
+		],
+		"upperFaceRig" : [
+			"YZX",
+			0.6970931,
+			0,
+			0,
+			0.9999815,
+			-0.006083247,
+			0,
+			0
+		],
+		"rBrowInner" : [
+			"ZYX",
+			0,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0
+		],
+		"rBrowMid" : [
+			"ZYX",
+			0,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0
+		],
+		"rBrowOuter" : [
+			"ZYX",
+			0,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0
+		],
+		"lBrowInner" : [
+			"ZYX",
+			0,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0
+		],
+		"lBrowMid" : [
+			"ZYX",
+			0,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0
+		],
+		"lBrowOuter" : [
+			"ZYX",
+			0,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0
+		],
+		"CenterBrow" : [
+			"ZYX",
+			0,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0
+		],
+		"lCheekUpper" : [
+			"ZYX",
+			0,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0
+		],
+		"rCheekUpper" : [
+			"ZYX",
+			0,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0
+		],
+		"lEar" : [
+			"XYZ",
+			-2.305794,
+			59.71859,
+			-4.015396,
+			0.8668938,
+			6.069716e-09,
+			-0.4980767,
+			0.02036564
+		],
+		"rEar" : [
+			"XYZ",
+			-2.305794,
+			-59.71859,
+			4.015396,
+			0.8668938,
+			6.069716e-09,
+			0.4980767,
+			-0.02036564
+		],
+		"lPectoral" : [
+			"ZYX",
+			-8.844269,
+			21.09832,
+			-0.007492159,
+			0.9801725,
+			0.07578906,
+			-0.182539,
+			-0.01405208
+		],
+		"rPectoral" : [
+			"ZYX",
+			-8.844268,
+			-21.09831,
+			0.007492023,
+			0.9801725,
+			0.07578905,
+			0.1825389,
+			0.01405207
+		]
+	},
+	"LimitData" : {
+		"hip" : [
+			"hip",
+			"YZX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"pelvis" : [
+			"pelvis",
+			"YZX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"abdomenLower" : [
+			"abdomenLower",
+			"YZX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"abdomenUpper" : [
+			"abdomenUpper",
+			"YZX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"chestLower" : [
+			"chestLower",
+			"YZX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"chestUpper" : [
+			"chestUpper",
+			"YZX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"lCollar" : [
+			"lCollar",
+			"XYZ",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"rCollar" : [
+			"rCollar",
+			"XYZ",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"neckLower" : [
+			"neckLower",
+			"YZX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"neckUpper" : [
+			"neckUpper",
+			"YZX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"head" : [
+			"head",
+			"YZX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"lowerJaw" : [
+			"lowerJaw",
+			"ZYX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"upperFaceRig" : [
+			"upperFaceRig",
+			"YZX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"rBrowInner" : [
+			"rBrowInner",
+			"ZYX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"rBrowMid" : [
+			"rBrowMid",
+			"ZYX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"rBrowOuter" : [
+			"rBrowOuter",
+			"ZYX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"lBrowInner" : [
+			"lBrowInner",
+			"ZYX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"lBrowMid" : [
+			"lBrowMid",
+			"ZYX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"lBrowOuter" : [
+			"lBrowOuter",
+			"ZYX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"CenterBrow" : [
+			"CenterBrow",
+			"ZYX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"lCheekUpper" : [
+			"lCheekUpper",
+			"ZYX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"rCheekUpper" : [
+			"rCheekUpper",
+			"ZYX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"lEar" : [
+			"lEar",
+			"XYZ",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"rEar" : [
+			"rEar",
+			"XYZ",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"lPectoral" : [
+			"lPectoral",
+			"ZYX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		],
+		"rPectoral" : [
+			"rPectoral",
+			"ZYX",
+			-180,
+			180,
+			-180,
+			180,
+			-180,
+			180
+		]
+	},
+	"PoseData" : {
+		"YuzuruHair_228230" : {
+			"Name" : "YuzuruHair_228230",
+			"Label" : "YuzuruHair",
+			"Object Type" : "MESH",
+			"Object" : "YuzuruHair_228230",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"hip" : {
+			"Name" : "hip",
+			"Label" : "Hip",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"pelvis" : {
+			"Name" : "pelvis",
+			"Label" : "Pelvis",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"abdomenLower" : {
+			"Name" : "abdomenLower",
+			"Label" : "Abdomen Lower",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"abdomenUpper" : {
+			"Name" : "abdomenUpper",
+			"Label" : "Abdomen Upper",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"chestLower" : {
+			"Name" : "chestLower",
+			"Label" : "Chest Lower",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"chestUpper" : {
+			"Name" : "chestUpper",
+			"Label" : "Chest Upper",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"lCollar" : {
+			"Name" : "lCollar",
+			"Label" : "Left Collar",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"rCollar" : {
+			"Name" : "rCollar",
+			"Label" : "Right Collar",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"neckLower" : {
+			"Name" : "neckLower",
+			"Label" : "Neck Lower",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"neckUpper" : {
+			"Name" : "neckUpper",
+			"Label" : "Neck Upper",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"head" : {
+			"Name" : "head",
+			"Label" : "Head",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"lowerJaw" : {
+			"Name" : "lowerJaw",
+			"Label" : "Lower Jaw",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"upperFaceRig" : {
+			"Name" : "upperFaceRig",
+			"Label" : "Upper Face Rig",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"rBrowInner" : {
+			"Name" : "rBrowInner",
+			"Label" : "Right Brow Inner",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"rBrowMid" : {
+			"Name" : "rBrowMid",
+			"Label" : "Right Brow Middle",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"rBrowOuter" : {
+			"Name" : "rBrowOuter",
+			"Label" : "Right Brow Outer",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"lBrowInner" : {
+			"Name" : "lBrowInner",
+			"Label" : "Left Brow Inner",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"lBrowMid" : {
+			"Name" : "lBrowMid",
+			"Label" : "Left Brow Middle",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"lBrowOuter" : {
+			"Name" : "lBrowOuter",
+			"Label" : "Left Brow Outer",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"CenterBrow" : {
+			"Name" : "CenterBrow",
+			"Label" : "Center Brow",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"lCheekUpper" : {
+			"Name" : "lCheekUpper",
+			"Label" : "Left Cheek Upper",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"rCheekUpper" : {
+			"Name" : "rCheekUpper",
+			"Label" : "Right Cheek Upper",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"lEar" : {
+			"Name" : "lEar",
+			"Label" : "Left Ear",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"rEar" : {
+			"Name" : "rEar",
+			"Label" : "Right Ear",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"lPectoral" : {
+			"Name" : "lPectoral",
+			"Label" : "Left Pectoral",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		},
+		"rPectoral" : {
+			"Name" : "rPectoral",
+			"Label" : "Right Pectoral",
+			"Object Type" : "BONE",
+			"Object" : "EMPTY",
+			"Position" : [
+				0,
+				0,
+				0
+			],
+			"Rotation" : [
+				0,
+				0,
+				0
+			],
+			"Scale" : [
+				1,
+				1,
+				1
+			]
+		}
+	},
+	"Subdivisions" : [
+	],
+	"dForce" : [
+	]
+}

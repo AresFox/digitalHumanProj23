@@ -1,0 +1,38 @@
+0,Cheeks Balloon-Suck In Left.obj
+1,Cheeks Balloon-Suck In Right.obj
+2,Eye Slide-side left.obj
+3,Eye Slide-side.obj
+4,Eyelids Lower Up-Down left.obj
+5,Eyelids Lower Up-Down right.obj
+6,Eyelids Upper Up-Down left.obj
+7,Eyelids Upper Up-Down right.obj
+8,Eyes Closed Left.obj
+9,Eyes Closed Right.obj
+10,Lip Bottom Out-In Left.obj
+11,Lip Bottom Out-In Right.obj
+12,Lip Bottom Up-Down left.obj
+13,Lip Bottom Up-Down right.obj
+14,Lip Top Out-In Left.obj
+15,Lip Top Out-In Right.obj
+16,Lip Top Up-Down left.obj
+17,Lip Top Up-Down right.obj
+18,Lips Pucker-Pressed.obj
+19,Mouth Corner Forward-Back  Left.obj
+20,Mouth Corner Forward-Back Right.obj
+21,Mouth Corner UP-DOWN LEFT.obj
+22,Mouth Corner UP-DOWN right.obj
+23,Mouth Open.obj
+24,Mouth Side-Side.obj
+25,Tongue Curl.obj
+26,Tongue In-Out.obj
+27,Tongue Raise-Lower.obj
+28,Tongue Up-Down.obj
+29,brow inner up down left.obj
+30,brow inner up down right.obj
+31,brow outer up down left.obj
+32,brow outer up down right.obj
+33,brow squeeze left.obj
+34,brow squeeze right.obj
+35,jaw out-in.obj
+36,jaw side-side.obj
+37,nose scrunch.obj

@@ -8,7 +8,7 @@ using UnityEngine.Assertions;
 
 public class txtFileRead : MonoBehaviour
 {
-    /// <summary>
+        /// <summary>
         /// 这个二维的List的每一行是一帧的数据,每一列是每一个BS的数据
         /// </summary>
         public List<List<double>> valueArray = new List<List<double>>();
@@ -35,6 +35,9 @@ public class txtFileRead : MonoBehaviour
                     break;
                 case 2:
                     filename = "zw2.txt";
+                    break;
+                case 3:
+                    filename = "testzhongli.txt";
                     break;
             }
             ReadTxtFile(filename);

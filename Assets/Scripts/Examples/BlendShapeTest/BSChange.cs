@@ -56,7 +56,7 @@ public class BSChange : MonoBehaviour
     {
         for (int i = 0; i < skinnedMeshRenderer.sharedMesh.blendShapeCount; i++)
         {
-            skinnedMeshRenderer.SetBlendShapeWeight(i, 0);
+            skinnedMeshRenderer.SetBlendShapeWeight(i, 0);  
         }
     }
     

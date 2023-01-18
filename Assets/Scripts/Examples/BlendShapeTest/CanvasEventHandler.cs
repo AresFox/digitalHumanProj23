@@ -124,16 +124,24 @@ public class CanvasEventHandler : MonoBehaviour
             Process myprocess = new Process();  
             ProcessStartInfo startInfo = new ProcessStartInfo(_exePathName);  
             myprocess.StartInfo = startInfo;
-            myprocess.StartInfo.WorkingDirectory = fileDirectory;
+            myprocess.StartInfo.WorkingDirectory = fileDirectory;  //注意要切换到对应的fileDirectory里面
             myprocess.StartInfo.UseShellExecute = false;
             myprocess.StartInfo.CreateNoWindow = false;
+            myprocess.StartInfo.RedirectStandardOutput = true;  //重定向到标准输出  https://www.jb51.net/article/209827.htm
             myprocess.Start();
+            string output = myprocess.StandardOutput.ReadToEnd();
+            myprocess.StandardOutput.ReadToEnd();
+            
+            print("output!!!!!!!");
+            print(output);
             print("now process is start");
             // myprocess.BeginOutputReadLine();
             // myprocess.OutputDataReceived += new DataReceivedEventHandler(ReceiveHandler);
         } catch (Exception ex) {  
             UnityEngine.Debug.Log("出错原因：" + ex.Message);  
         }
+        
+        
     }
     
 }

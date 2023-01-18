@@ -48,6 +48,7 @@ public class txtFileRead : MonoBehaviour
         /// </summary>
         private void ReadBSIndexFile()
         {
+            //todo:这个index文件应该也是指定路径,需要输入
             string path = Application.dataPath + "/readFiles/txtFiles/expression_index.txt";
             string[] strs = File.ReadAllLines(path);
             BSSize = strs.Length;
@@ -58,7 +59,7 @@ public class txtFileRead : MonoBehaviour
         /// 传入Assets文件夹下的子路径/readFiles/txtFiles/里的txt文件名
         /// </summary>
         /// <param name="filename"></param>
-        public void ReadTxtFile(string filename)
+        public void ReadTxtFile(string filename)   //已经训练完了的文件
         {
             valueArray.Clear();
             string path = Application.dataPath + "/readFiles/txtFiles/" + filename;

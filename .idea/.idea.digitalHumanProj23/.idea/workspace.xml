@@ -8,8 +8,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/cafb29d5233847fbb4edcf8d7c32b1e3299c90/8b/bd4ee5f1/File.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Examples/BlendShapeTest/BSChange.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Examples/BlendShapeTest/CanvasEventHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Examples/BlendShapeTest/VoiceAIAPITest.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -87,7 +89,7 @@
       <workItem from="1673413080180" duration="2373000" />
       <workItem from="1673532882589" duration="4634000" />
       <workItem from="1673541530747" duration="891000" />
-      <workItem from="1673954793381" duration="705000" />
+      <workItem from="1673954793381" duration="8177000" />
     </task>
     <servers />
   </component>
